@@ -13,3 +13,9 @@ $ sudo chmod +x shutdown-cassandra.sh
 $ sudo chmod +x build_cqlsh.sh
 $ sudo chmod +x run_cqlsh.sh
 ````
+````
+$ ./run-cassandra.sh
+$ ./build_cqlsh.sh
+$ ./run_cqlsh.sh
+$ ./shutdown-cassandra.sh
+````
