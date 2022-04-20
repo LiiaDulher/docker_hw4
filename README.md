@@ -10,4 +10,6 @@ It takes about 65 seconds for Cassandra node to start, so <i>run-cassandra.sh</i
 ````
 $ sudo chmod +x run-cassandra.sh
 $ sudo chmod +x shutdown-cassandra.sh
+$ sudo chmod +x build_cqlsh.sh
+$ sudo chmod +x run_cqlsh.sh
 ````
