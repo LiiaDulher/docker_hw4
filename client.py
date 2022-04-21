@@ -1,4 +1,5 @@
 import requests
+import pprint
 
 
 class Client:
@@ -135,7 +136,8 @@ def main():
             break
         else:
             code, json = client.send_query(query_body)
-            print("Code: %d\n" % code, json)
+            print("Code: %d" % code)
+            pprint.pprint(json)
 
 
 if __name__ == "__main__":
