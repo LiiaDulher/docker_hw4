@@ -135,6 +135,7 @@ def main():
         if query_body is None:
             break
         else:
+            pprint.pprint(query_body)
             code, json = client.send_query(query_body)
             print("Code: %d" % code)
             pprint.pprint(json)
