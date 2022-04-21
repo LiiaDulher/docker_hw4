@@ -4,8 +4,18 @@ Cassandra 3
 ## Team: [Liia_Dulher](https://github.com/LiiaDulher)
 
 ### Important
-It takes about 65 seconds for Cassandra node to start, so <i>run-cassandra.sh</i> will run about <b>1,5 minute</b>.
+It takes about 65 seconds for Cassandra node to start, so <i>run-cassandra.sh</i> will run about <b>1,5 minute</b>.<br>
 Put dataset file <b></b> into one directory with code.
+
+### Prerequiments
+````
+pip install cassndra-driver
+pip install flask
+````
+If you are using <i>client.py</i>
+````
+pip install requests
+````
 
 ### Usage
 ````
