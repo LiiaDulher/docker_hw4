@@ -1,0 +1,54 @@
+1: Return all reviews for specified *`product_id`*
+2: Return all reviews for specified *`product_id`* with given *`star_rating`*
+3: Return all reviews for specified *`customer_id`*
+4: Return N most reviewed items (by # of reviews) for a given period of time
+5: Return N most productive customers (by # of reviews written for verified purchases) for a given period
+6: Return N most productive “haters” (by # of 1- or 2-star reviews) for a given period
+7: Return N most productive “backers” (by # of 4- or 5-star reviews) for a given period
+
+Send GET requests with json body:
+{ 
+  "query_number": num,
+  "params": {
+            "param1": value1,
+            "param2": value2,
+            .
+            .
+            .
+            } 
+}
+ where 'params' for each query are:
+ { 
+ 1: [product_id];
+ 2: [product_id, star_rating];
+ 3: [customer_id];
+ 4: [N, start_date, end_date]
+ 5: [N, start_date, end_date]
+ 6: [N, start_date, end_date]
+ 7: [N, start_date, end_date]
+ }
+ 
+ `product_id`: string, `star_rating`: integer, `customer_id`: string, `N`: integer, `start_date`: string in format yyyy-mm-dd, `end_date`: string in format yyyy-mm-dd
+ 
+ Response can be with code 200 or 400 and field json:
+ if response code is 200: 
+ {
+ "columns_names": tuple or one column name,
+ "rows": list 
+ }
+ where columns names for each query are:
+ {
+ 1: [review_headline, review_body];
+ 2: [review_headline, review_body];
+ 3: [review_headline, review_body];
+ 4: [product_id]
+ 5: [customer_id]
+ 6: [customer_id]
+ 7: [customer_id]
+ } 
+ If there are one column, than `rows` list contains strings; if there are two columns, `rows` list contains tuples of strings
+ 
+ if response code is 400:
+ {
+ "err": description of error
+ }
