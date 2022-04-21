@@ -27,5 +27,6 @@ $ sudo chmod +x write_dataset.sh
 ````
 $ ./build.sh
 $ ./run-cassandra.sh
+$ python3 ./client.py # or any other way to send and get requests to port 8080
 $ ./shutdown-cassandra.sh
 ````
