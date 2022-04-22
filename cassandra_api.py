@@ -270,7 +270,7 @@ class CassandraAPI:
 
 def main():
     app = CassandraAPI()
-    app.run("0:0:0:0", 8080)
+    app.run("0.0.0.0", 8080)
 
 
 if __name__ == '__main__':
