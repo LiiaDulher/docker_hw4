@@ -42,7 +42,6 @@ class CassandraClient:
 def write_dataset(client):
     lines_in_file = 3105372
     lines_number = lines_in_file // 5
-    # TODO: check work
     dataset_file = 'amazon_reviews_us_Books_v1_02.tsv.gz'
     count = 0
     with gzip.open(dataset_file, 'rt') as file:
@@ -50,9 +49,12 @@ def write_dataset(client):
         for line in tsv_file:
             if count == lines_number:
                 break
-            marketplace, customer_id, review_id, product_id, product_parent, product_title, product_category, \
-            star_rating, helpful_votes, total_votes, vine, verified_purchase, review_headline, review_body, \
-            review_date = line
+            try:
+                marketplace, customer_id, review_id, product_id, product_parent, product_title, product_category, \
+                star_rating, helpful_votes, total_votes, vine, verified_purchase, review_headline, review_body, \
+                review_date = line
+            except ValueError:
+                continue
             if marketplace == 'marketplace':
                 continue
             verified_purchase = verified_purchase == 'Y'
@@ -61,6 +63,8 @@ def write_dataset(client):
             review_body = review_body.replace("'", "''")
             client.write_data(product_id, review_id, review_headline, review_body, star_rating, review_date,
                               customer_id, verified_purchase)
+            if count % 10000 == 0:
+                print("Written", count, "out of", lines_number)
             count += 1
 
 
