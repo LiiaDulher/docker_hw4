@@ -1,0 +1,2427 @@
+Request json parameter:
+{'params': {'product_id': '0385730586'}, 'query_number': 1}
+Result:
+{'columns_names': ['review_headline', 'review_body'],
+ 'rows': [['The Sisterhood of the Traveling Pants',
+           'This book is not worth your time. It took me months to read the '
+           'book! That may sound ridiculus, but this book was such a drag that '
+           'I just carried it around to my classes, and read it when I simply '
+           'had too. The author had no real plot, or expectations for her '
+           'novel to begin with. Than you add in a bunch of stupid, ditzy '
+           'teenagers with no lifes and you have utter crap. The problems the '
+           'children, yes children in this book have are not even problems. '
+           'The dialouge in this book is plain, elementary and leads to '
+           'nowhere. It was confusing to read, and had terrible organazation. '
+           "Please don't waste your time. The author seemed like she had to "
+           'have exactly X number of pages and just rambled so she could get '
+           "to that number. I hated it, it was one of the worst books i've "
+           'ever read!'],
+          ['Clichéd',
+           "I'm a fifteen year old reader, and I typically try to stay away "
+           'from YA fiction. But this book was sitting around in my sisters '
+           'bedroom one night when I had nothing to do, so I picked it up. <br '
+           '/> <br />How do you spell clich\x1a? <br /> <br />It was as if the '
+           'author took the Top Ten Soap Situations and put them into a bag. '
+           'She shook them up and first she drew: Divorced parent has a new '
+           'love intrest. Teen can\'t deal. <br />Then she drew the \\\\"Brave '
+           'Dying child\\\\" story and went on to pick the most overdone '
+           'problems any teenage character can be expected to face. <br /> <br '
+           "/>And it's just so amazing that they fit into the same pants. "
+           'Seriously, I mean how many girls can wear a size 5? <br /> <br '
+           "/>It's really not worth the money. There are so many more books "
+           "you could be reading. Don't waste your money on a overdone, "
+           'overhyped story.'],
+          ['The Fall of the Sisterhood',
+           'I recently read The Sisterhood of the Traveling Pants, after being '
+           'pestered by both peers and teachers to read it. In the end, '
+           "though, I believe it's not worth the hype.     First of all, it is "
+           'very predictable. I mean, once I found out that Bailey had cancer, '
+           "I knew Brashares wouldn't let her live. Now, keep in mind, I "
+           "didn't think this because of the disease itself, but because "
+           'Brashares wanted people to cry, and perfectly healthy children '
+           "aren't very sad.       I was also unimpressed with the style of "
+           "writing. I thought, with the great reviews I'd been hearing, that "
+           'at least the writing would be good, but I personally found it '
+           "rather, well, I don't know if there's a word. Here's a quote from "
+           'page 211: \\\\"The guilt made muffins on her stomach and curled in '
+           'for a long stay.\\\\" I must say, this was alarming to read. One '
+           "second I'm reading about how Carmen behaved badly towards her "
+           'family and the next feelings are baking before some sort of '
+           'hibernation.       I  found it very unrealistic. How can all of '
+           "their lives suddenly change in one summer? Can't someone just have "
+           "a normal summer? The answer, I'm afraid, is no. No, lives have to "
+           "change every summer.        I think it's very cliche, as well. "
+           "Okay, shy girl. You get more outgoing. Touchy girl, you'll need to "
+           'be more sensitive. By the end, their personalities had melted '
+           'together like multi-colored crayons.        So, if you still want '
+           "to read the book, go right ahead. Who knows? Maybe it's just not "
+           'my cup of tea. (Or, shall I say, my piece of hibernating muffin.)'],
+          ["What's all the fuss?",
+           "I just don't get why this book is so popular.  Maybe if I were a "
+           'teenager...  but as an adult, no.  The vocabulary is on par with a '
+           'Harlequin Romance, which I read plenty of in 9th grade, but have '
+           'no interest in anymore.  I kept trying to stick with this book, '
+           'but I felt like I was insulting my brain! <br /> <br />Maybe the '
+           'movie will change my mind, but I doubt it.'],
+          ['Not appropriate for young girls- or older ones',
+           'I bought this book for my 12 year old niece after reading several '
+           "reviews, and decided I'd read it for myself first after reading "
+           'one of the rules- never let a boy take off the pants, although you '
+           'may take them off in his presence. I found this book to have too '
+           'many sexual references for a girl any younger than 14, and even '
+           "then I don't think I would want my daughter reading it. One of the "
+           'girls decided to persue her much older soccer coach, for example. '
+           'The lessons of friendship and self-esteem are great, but there '
+           'were too many inappropriate references for a young girl, and by '
+           'the time they were old enough, say 14 or 15, the book would no '
+           'longer be interesting to them.'],
+          ['Too mature for young girls',
+           'I have to say that I am a little amazed at the content that is '
+           'presented here for young girls.  The language was bothersome to me '
+           'as was some of the content.  I did enjoy the concept of the book '
+           'and I like how the author was able to take you into the lives of '
+           'these girls, I just felt that it could have been geared more to '
+           'the targeted age group.  As a parent I would recommend that you '
+           'read this book before buying this for your daughters.  I did not '
+           'finish the book.'],
+          ['Do not read this!',
+           'I spent more than 7 dollors to buy this book and it was not '
+           'worhtit.  I thought i could relax and read a decent story, but i '
+           "couldn't stand 5 pages of this cheesy and naive story!"],
+          ['A bit too cutesy',
+           'I read this book on a rainy weekend expecting it to be fantastic. '
+           'Unfortunately, it fell quite short of my expectations. The '
+           'characters were boring and lacked real personality. Sure they each '
+           'fit into a stereotypical teenage role, but they lacked spunk. Its '
+           'a quick and entertaining enough read, good for the middle school '
+           'aged girls out there. I recommend Sloppy Firsts and Second '
+           'Helpings for the high school girls out there looking to really '
+           'relate.'],
+          ["Not what you'd expect...EVEN BETTER!!!",
+           "I was really prepared not to like this book. I'd read some of the "
+           "reviews, and although they were good, I just couldn't bring myself "
+           'to read a book about travelling pants. It just sounded so out '
+           'there and stupid and from what I thought so very unentertaining. '
+           'Boy was I wrong. It was so good. The heroines were diverse and '
+           'each had amazingly interesting plots. Its a really good read. I '
+           'definitely recommend it.'],
+          ['This book is worth reading !!',
+           'This book taught me how friends can stick together even if its a '
+           'distant relationship.  In fact their relationship cycles between '
+           'being close and distant, which adds alot of additional '
+           'complications.  It shows how these issues can be overcome even '
+           'when there are four involved.  I highly recommend this book.'],
+          ['These are magic pants.',
+           '\\\\"These are magic pants.\\\\"  Carmen Carmeena, Tibby Tomko, '
+           'Lena Kaligaris, and Bridget Vreeland are the best of friends.  '
+           "They've spent every summer together since they were toddlers.  But "
+           "now, it'll be their first summer apart.  Carmen will be with her "
+           'dad in South Carolina, Lena will be in Greece with her '
+           'grandparents, Bridget will be in Baja California at a soccer camp, '
+           'and Tibby will stay in town working in store infamously known as '
+           "Wallman's.  But before everyone departed, they came upon an "
+           'amazing pair of thrift shop jeans in the forgotten corner of '
+           "Carmen's closet.  For fun, they all try on the jeans, and "
+           "incredibly, they fit perfectly on the four friends' hips!  They "
+           'decide that these magical pair of jeans will keep their close-knit '
+           'friendship together.  By sending the \\\\"Pants\\\\" to each other '
+           'and mailing letters, they would still be together, no matter how '
+           'distant they were. <br /> Unlike many other books, the author, Ann '
+           'Brashares, is very down-to-earth.  She uses TV shows in her novel '
+           'such as, Ricki Lake, Oprah, The Tonight Show with Jay Leno, and '
+           'Jerry Springer.  This also presents the fact that these situations '
+           'are capable of happening in real life and is not some fantasy book '
+           'where reality is just another term tossed around like a hot '
+           'potato. <br />        Another great aspect of this book is the '
+           'feeling and description demonstrated.  Every one of her main '
+           'characters goes through inclement situations.  Brashares channels '
+           'through the hardships and delicacy of her characters in depth.  To '
+           'illustrate, one of the characters lost something she always had.  '
+           'Brashares put herself in that situation and dug deep to give the '
+           'full affect of sorrow and loss. <br /> One fascinating detail I '
+           'found in this book was that Ann Brashares, used quotes and sayings '
+           'to separate chapters, instead of using numbers.  That really '
+           'showed to me that she took the time to teach us, young adults, how '
+           "her book affected our lives and other people's lives. <br "
+           '/>        Teenage love was alsoincorporated in the book.  Many '
+           'adolescent girls have boyfriends and tend to fall for their '
+           'crushes.  Brashares definitely hits the mark for harsh rejection '
+           'and continuous devotion at the same time.  Her characters have a '
+           'complex, deep adoration for their love.  Yet each character was '
+           'able to own her sense of weakness. <br /> After reading this book, '
+           "I found that with each girl's story there was a lesson.  Carmen "
+           'went to South Carolina to visit her divorced father, who she only '
+           'visited two to three times a year.  She was frustrated about an '
+           'unexpected surprise, but in the end she learned about forgiveness '
+           'and learning to start a new life.  Lena discovered that love can '
+           'reign over fearfulness and give you courage.  Bridget found that '
+           'if you want your goal, the key is to be patient.  Even at '
+           "Wallman's, Tibby discerned that no matter what troubles come in "
+           'life, always \\\\"Keep playing.\\\\"   <br /> All in all, I '
+           'thoroughly enjoyed The Sisterhood of the Traveling Pants.  I '
+           'appreciated the creativity, the sensitivity, the love, the '
+           'explicitness and the well-presented morals.  It gave me a sense of '
+           'completeness and wholeness after reading it.  I would recommend '
+           'this fantastic page-turner to female teens everywhere. <br />'],
+          ['The Sisterhood of the Traveling Pants',
+           'The Sisterhood of the Traveling Pants takes you on adventures with '
+           "four teenaged girls.  These extraordinary girls' names are Lena, "
+           'Bridget, Tibby, and Carmen.  This summer (the setting of the book) '
+           'would be the first summer the girls would be apart.  One girl was '
+           'visiting her grandparents in Greece, one was seeing her dad, '
+           'another was at a soccer camp in New Mexico, and the fourth girl '
+           'stayed at home and got a part time job at a grocery store.  All '
+           'these girls meet new people and have a crazy adventure!  Even with '
+           'all four of them halfway across the world from each other, they '
+           'still write constantly. <br /> If there is anyone who wants a '
+           'romantic, dramatic, and fun book, this is the book for them!  I '
+           "enjoyed this book very much!  I typically don't like to read, but "
+           'I could not put this book down.  As you can see, this is a '
+           'splendid book for light or heavy readers, or just for anyone who '
+           'wants a book to get into. <br />'],
+          ['Very Cute Story!',
+           'I loved this book! It was very cute. Follow Carmen, Bridget, Lena '
+           "and Tiby overcome new obsticles with their 'magic pants'. It's a "
+           'great story and was very fun to read!'],
+          ['Better than most',
+           "Better than most kids books these days. Can't hold a candle to the "
+           'classics, but better than the others out there for the pre-teen '
+           'set.'],
+          ["Inspiration for the Chicks 'Round the World",
+           "This book was very well written. it didn't show the typical "
+           '&quot;Sex in the City&quot; --Gone teenage stuff that a lot of '
+           'authors write now. Although, it held the same glam.  <br />  <br '
+           '/> I loved how each girl had their own battles overcome and their '
+           'own stories to tell. it was Humorous, Heart-wretching, and loving '
+           'all in one. <br />  <br /> It was definitely a good read, and it '
+           "flowed nicely. <br /> I recommend this book to any girl who's "
+           'wants to feel every emotion the characters are feeling. :0)'],
+          ['The Sisterhood Rocks!',
+           'If you like Meg Cabot (Princess Diaries) you will most definitely '
+           'like this book! I have read quite a few teen fiction(because I am '
+           'a teen! :) ) and this has got to be one of the better ones. This '
+           'book supports having good and strong friendships, and I believe '
+           'this is something that people my age need to learn. Friends are '
+           'people who will love you, and be there for you know matter what! '
+           'This is what the book is trying to say! Other than good morals, it '
+           'is a hilarious selection, and a note to english teachers: this is '
+           'an excellent book to read to your class. Not only will your '
+           'students enjoy it immensely, but you could actually get your '
+           'students read and be interested and help those whose grades are '
+           'like, terrible. Enjoy!'],
+          ['Good Book!',
+           'This is the first book in a series of 3 great books. A MUST read! '
+           ':-) The Sisterhood Of The Traveling Pants is about 4 best friends '
+           'who are different sizes but find a pair of pants that some how fit '
+           'all of them perfectly! The 16-year-old girls are going to be apart '
+           'for their first summer ever since they where born and send the '
+           'pants among them to keep in touch!'],
+          ['Sisterhood of the Traveling Pants',
+           "This book is pretty cool. it's got some great and real characters "
+           'that everyone can relate to. you will find at least one girl that '
+           'you can totally relate to. it was a really good read- great for '
+           'the summer, and great to read as a group. The story highlights '
+           "each girls summer in their own voice and you get to see everyone's "
+           "point of view. They'll have you rooting(spelling?) for them and "
+           'feeling that friends can sometimes help you heal.  <br />Hope this '
+           'review helps you out :) <br />Thanx for reading this [winks and '
+           'smiles] <br />Hey, read my other reviews to find some great reads! '
+           '<br />thanx!'],
+          ['Sisterhood of the Traveling Pants',
+           'An honest insight to teenagedom, Sisterhood of the Traveling Pants '
+           'is a journey of four 15 year old best friends throughout the '
+           'summer.  It is literally a journey for 3 of them, who find '
+           'themselves away from home and it is a journey to growing up.  Ann '
+           'Brashares does a wonderful job of writing these completely '
+           'believable characters.  Each is so very different from the next, '
+           'but their love, support and amazing friedship keep them utterly '
+           'inseperable. <br /> <br />Each one of us can relate to these '
+           'characters.  Either we are a Bridget, or a Carmen was our best '
+           'friend, a Tibby was our sister or a Lena was our cousin.  I think '
+           'thats what makes this book so enjoyable.  We have been in these '
+           'situations and we have known these girls.   The jock, the smart '
+           'one, the weird one and the princess are how these girls may be '
+           'branded, but we get a closer look inside and know that labels '
+           "don't always fit."],
+          ['The Sisterhood of the Traveling Pants',
+           'Brashares, Ann.  The Sisterhood of the Traveling Pants.  New York: '
+           'Delacorte Press, 2001. 249  pages. <br /> <br />This book is '
+           'filled with love and happiness towards one pair of pants.   Ann '
+           'Brashares brings life and magic into a pair of pants in The '
+           'Sisterhood of the Traveling Pants.  She talks about four girls, '
+           'who have been friends since before they were born, comes across a '
+           'pair of pants that is \\\\"magical.\\\\"  Carmen, who is ashamed '
+           'of the pants because she got them from a thrift store, gives them '
+           'to Tibby.  Tibby tries them on first, than their other friends, '
+           'Lena and Bridget also tries them on.  These pants fit all four '
+           'girls perfectly and make them look great.  They all decide to '
+           'share the pants and write letters of their experiences to '
+           'eachother, but there are some rules to follow.  One of my favorite '
+           'rules is \\\\"5. You must not pick your nose while wearing the '
+           'Pants.  You may however, scratch casually at your nostril while '
+           'really kind of picking\\\\" (24).  If you want to know the rest of '
+           'the rules and the story, than I think you just might have to read '
+           'the book.   <br />'],
+          ['Magical',
+           'I think that is book was an overall great book. It tells about a '
+           'friendship that is tied between a pair of pants. The girls all '
+           'seperate, but when each one of them gets the pants they feel like '
+           'they have a piece of eachother. It shows a lot of love and '
+           'friendship. I think that any young lady would enjoy reading this '
+           'book!!'],
+          ['Sing the praises of pants',
+           'I think that it is safe to say that the mark of any good writer is '
+           'his or her ability to write meaningful complex characters.  '
+           'Equally, it is also a mark of a good writer to have the ability to '
+           'write fifteen year old girl characters that are plausibly '
+           "adolescent and, at the same time, people you wouldn't want to "
+           'throttle slowly if you met them in person.  Ann Brashares has, '
+           'perhaps, done the impossible.  She has written four, count `em, '
+           'four female teens with messy lives, hopelessly screwed up parents, '
+           'and bouncy trouncy hormones and made them lovable.  If that '
+           "doesn't deserve a prize of some kind, I don't know what does.<br "
+           "/><br />Meet Lena, Tibby, Bridget, and Carmen.  They're fifteen "
+           "and they're about to spend their first summer apart from one "
+           'another.  Breathtakingly beautiful Lena is staying with her '
+           'Grecian grandparents in the Mediterranean.  Wry sarcastic Tibby is '
+           'stuck working in a thinly disguised Walmart.  Athletic Bridget is '
+           'off to soccer camp in Baja along the South American shore.  As for '
+           'Carmen, our narrator for the Prologue and Epilogue of this tale, '
+           "she's going to stay with her divorced pop in Florida.  With the "
+           'interesting gimmick of a pair of magical blue jeans that fit each '
+           'of the four girls perfectly (an enchantment many of us may wish we '
+           'had access to), the friends send the pants amongst one another '
+           "throughout the warm months in the hope that they'll help them "
+           'through their individual adventures.  In the course of the tale '
+           'the pants will be bloodied, muddied, sanded up, and removed with '
+           'disastrous consequences.<br /><br />I found myself becoming quite '
+           'impressed with author Ann Brashares as I read through this book.  '
+           'Expecting the kind of giggly girly book found in the \\\\"Gossip '
+           'Girl\\\\" series or the \\\\"A-List\\\\" books, I wasn\'t actually '
+           'expecting to be touched by this tale at all.  What struck me from '
+           'the start was the fact that although the pants are introduced '
+           'immediately from the get go, Brashares avoids writing a tale in '
+           'which the narrative moves with the pants and the pants alone.  '
+           'Instead, we hear all about the girls and their miseries (of which '
+           'they each have quite a few) in spite of where the jeans may land.  '
+           'The text is broken up into letters, insights, and narratives.  '
+           'Anal retentive little beast that I am, I was a little too pleased '
+           'to find that the \\\\"handwriting\\\\" of the letters between the '
+           'girls was consistent with the text (Lena is described as having '
+           'the nicest writing, a fact that the rest of the book attests).<br '
+           "/><br />A good way to determine whether or not you'll like this "
+           'book is to read the ten rules governing the use of the pants '
+           '(provided on the back cover for easy reference).  If you do not '
+           'find such rules as \\\\"#2. You must never double cuff the Pants.  '
+           "It's tacky.  There will never be a time when this will not be "
+           'tacky\\\\" (as true as it is sublime) to be amusing, it\'s '
+           'probably best to avoid this book.  I myself was pleased at the '
+           'range of characters in it, though.  Certainly the tale falls back '
+           "on a lot of old standbys.  There's the hard hearted punk girl that "
+           'learns to care about others through the intervention of a child '
+           "with cancer (honest).  There's the goddess-like beauty with zero "
+           'self-confidence.  But Brashares gives these tried and true '
+           'stereotypes a little more life and verve.  She also makes some '
+           'literary choices that I approved of.  While acknowledging the '
+           'dehumanizing atmosphere of any and all Walmarts, she points out '
+           'that the people in them are, in fact, human.  She also, without '
+           'actually saying it, makes it clear that the reason the four girls '
+           'are as close as they are is because their parents are all so '
+           "screwy (with the possible exception of Carmen's mom).  At this "
+           "point in the girls' lives they're finally able to see the inherent "
+           'flaws of their mothers and fathers without yet being able to '
+           'detach themselves fully.  Parents are still important in this '
+           'book, no matter how negligent or half-brained they may act.<br '
+           '/><br />So I was delightfully surprised by this book.  Heck, any '
+           'tale that can make me tear up is worthwhile reading, to my mind.  '
+           'It may have taken until the top of page 283, but Ann Brashares '
+           "definitely got me in the end.  Now, don't get me wrong.  This "
+           'isn\'t \\\\"Catcher In the Rye\\\\" or anything.  And while the '
+           'insights into life and living are definitely heads above your '
+           'average \\\\"Chicken Soup for the Teenage Soul\\\\", it\'s still a '
+           'pretty fluffy piece of work.  But the world needs good fluff.  '
+           "Fluff is what fills our days and makes us happy when we can't take "
+           'anymore depressing \\\\"aaht\\\\".  There\'s good and bad fluff in '
+           'the world.  Be sure you throw you\'re cap into the \\\\"Sisterhood '
+           'of the Traveling Pants\\\\" camp.k.  Heck, any tale that can make '
+           'me tear up is worthwhile reading, to my mind.  It may have taken '
+           'until the top of page 283, but Ann Brashares definitely got me in '
+           'the end.  Now, don\'t get me wrong.  This isn\'t \\\\"Catcher In '
+           'the Rye\\\\" or anything.  And while the insights into life and '
+           'living are definitely heads above your average \\\\"Chicken Soup '
+           'for the Teenage Soul\\\\", it\'s still a pretty fluffy piece of '
+           'work.  But the world needs good fluff.  Fluff is what fills our '
+           "days and makes us happy when we can't take anymore depressing "
+           '\\\\"aaht\\\\".  There\'s good and bad fluff in the world.  Be '
+           'sure you throw you\'re cap into the \\\\"Sisterhood of the '
+           'Traveling Pants\\\\" camp. <br />'],
+          ['Where can I get a pair?',
+           "Ann Brashares's Sisterhood of the Traveling Pants is a great book "
+           'about the strength of friendship. Four friends, Carmen, Bridget, '
+           'Tibby and Lena are spending their first summer apart and on the '
+           'eve of their separation they discover a pair of magic pants.  '
+           'These pants fit each girl perfectly and become a link to keep the '
+           'girls close even as they are hundreds of miles apart.  As the '
+           'girls run into problems, big and small, the pants are a source of '
+           'strength to each in her time of need.  With its positive themes '
+           'and engrossing plot, I would recommend this book in a heartbeat.'],
+          ['My daughter really loved this book...',
+           '...and I liked it, too. My pre-teenage daughter wanted to read it '
+           'and see the movie, so I bought it after reading the Amazon '
+           'reviews.   <br /> <br />I was a little concerned that it might be '
+           'too mature for her, but I liked that real-life issues are treated '
+           'realistically and seriously.  Eleven or twelve is probably not too '
+           'young to start thinking about any of the situations that these '
+           "four encounter, because it won't be long before they, too, may be "
+           'faced with some of these issues.  <br /> <br />The characters have '
+           'distinct and well-written personalities, and they speak and act '
+           'like real teenagers. Each has her share of problems and each '
+           '(eventually) grows (at least somewhat) to meet those challenges.  '
+           'In the book, as in life, not all problems are neatly resolved by '
+           'the end of the summer.  But the book is filled with warmth and the '
+           'joy of their friendship. <br /> <br />If you are afraid (as I was) '
+           'that this book might be a junior version of the ((shudder))Ya-Ya '
+           'Sisterhood or the Red Hat Club, fear not.  This book is better '
+           'written, more compelling, and just plain more likeable.'],
+          ['Edifying, yet not the best',
+           'I enjoyed this book. While a few scenes are not appropriate, it '
+           'had good messages overall. The descriptions of the way the girls '
+           'feel are right on--you can tell that Brashares has been a teenage '
+           'girl! She tells it like it is.'],
+          ['Insight At Every Age',
+           'I avoided reading this book at first because it seemed to be aimed '
+           "at tween girls younger than me(I'm 18). But a friend told me she'd "
+           "loved it so I read it. I loved the characters, because they're "
+           "unpredictable and interesting. You really feel like you've known "
+           'them all your life by the end. The situations and conflicts they '
+           'deal with are very true to life. I often found myself thinking, '
+           '\\\\"Yep, I\'ve been there before!\\\\" I think everyone would get '
+           "something out of it. It's exciting and suspensful and beautifully "
+           'written! Ms. Brashares truly understands young women!'],
+          ["Even if you've seen the movie... read the book!",
+           'I picked up this book from the library when I heard that there '
+           "would be a movie coming out. I'd seen it on the shelves before but "
+           "hadn't read it because the title seemed silly. <br />I was "
+           'pleasantly surprised. Ann Brashares managed to draw in not only '
+           'myself but also my sister! The fragmented storyline, difficult to '
+           'pull off, works because you care about the characters so much. The '
+           'plot lines and &quot;lessons&quot; are a bit predictable but you '
+           "don't care because you're rooting for the characters.<br />If you "
+           "haven't seen the movie, READ THE BOOK FIRST!! The movie is okay "
+           "but they reinvented Lena's character and story, probably because "
+           'they got rid of Effie, her sister. Bailey is great in the movie.'],
+          ['Sisterhood of the Traveling Pants',
+           'Moms I suggest that you read this book along with your daughter or '
+           'before her.  Use the book to have open and honest discussions '
+           'about situations, emotions and issues that the girls in the book '
+           'experience.  As a mother I find it disturbing but not surprising '
+           'that one of the girls has a sexual experience, the book never '
+           'discusses birth control, or the ramifications of the adult male '
+           'having sex with a minor girl.  It was also sad that the girls '
+           'never seek guidance from their parents, or other adult figures.  '
+           'The book does seem to offer girls characters that they can relate '
+           'to.  I did enjoy reading about the girls, and was anxious to read '
+           'the 2nd book.  My daughter and I have had several conversations '
+           'regarding each of the characters, it is a good read, and was a '
+           'nice avenue to discuss issues and experiences that young women '
+           "face in today's world.  We should all be so lucky to have as close "
+           'a sisterhood with our girlfriends, however, girlfriends should '
+           'never replace parents.  Moms read the book and then decide if your '
+           'daughter is mature enough to process the experiences described in '
+           'the book.   <br />'],
+          ['Join the Sisterhood!',
+           '<br />  \\\\"10. Remember: Pants = love. Love your pals. Love '
+           'yourself.\\\\" taken from the rules of the Traveling Pants: The '
+           'Sisterhood of the Traveling Pants. <br /> <br />  The Sisterhood '
+           'of the Traveling Pants begins with four best friends, all born '
+           'within twenty-one days of each other, who have known each other '
+           'since before they were born. This is the first summer that they '
+           'will all be in different places. They decide to stay in contact by '
+           'sharing their experiences throughout the summer with a pair of '
+           'secondhand jeans which, miraculously, fit all of the girls very '
+           'nicely. <br />  <br />  This summer was very eventful for all four '
+           "of the girls. Lena's out in Greece visiting her grandparents who "
+           'think she should date this handsome Greek boy. Bridget falls hard '
+           'for one of the coaches at her soccer camp. Carmen goes to visit '
+           'her father expecting to spend quality time with him but ends up '
+           'having to share him with his fianc\x1a and her two kids. Tibby, '
+           'the only girl staying at home for the summer, meets a '
+           'twelve-year-old girl named Bailey. What will happen to these four '
+           'girls? How will the outcome of this summer affect their lives? '
+           'Read The Sisterhood of the Traveling Pants by Ann Brashares to '
+           'find out. <br />  <br />  In my opinion, The Sisterhood of the '
+           'Traveling Pants is an awesome book! It deals with many issues that '
+           'the average teenage girl could go through. Ann Brashares has a way '
+           'of writing that just keeps you hungry to read more. I recommend '
+           'The Sisterhood of the Traveling Pants to all young girls out there '
+           'who are looking for a book to read that involves adolescent '
+           'troubles. <br /> <br />- CH'],
+          ['Great Book!!!!!!',
+           'This magical and captivating story begins the night before four '
+           'very different friends depart for their summer holidays. Carmen, '
+           'had recently bought a pair of raggedy old pants from a second hand '
+           'store, and was going to throw them away. What she thought was a '
+           'useless pair of pants, was going to bring her and her friends '
+           'closer then ever.  <br /> <br />    Tibby, Bridget, and Lena each '
+           'thought the pants were great, and decided whoever looked the best '
+           'in the pants; would get to keep them. Although each of them had '
+           'various shaped and sized bodies, the pants not only fit perfectly, '
+           'but also looked ravishing on them. Seeing that the pants looked '
+           'great on each of them, they decided to form a sisterhood, with '
+           'rules and guidelines about wearing the pants.  <br /> <br />    '
+           'The pants traveled around the world, all the way from Greece to '
+           'Baja, Mexico.  During this period of time, all of the girls '
+           'experience emotional hardships revolving around romance, regret, '
+           'frustration, and sadness. At the end of the summer the girls met '
+           'back together, and realized that they had forever changed.  <br /> '
+           '<br />    Overall I loved this book, the only thing I would say is '
+           "that the transition between each character's stories was somewhat "
+           'confusing at times, throughout the book. Other than that, it was a '
+           'great book.  I strongly recommend this book to all ages; it is a '
+           'story that everyone can relate to with their life experiences!!! '
+           'Hope you enjoy the book as much as I did!!! <br /> <br />  <br />'],
+          ['the magical pants',
+           'The novel The sisterhood of the traveling pants was a really '
+           'heart-warming story of four girls who learn to live independently. '
+           'They all are seperated from each other during the summer and is '
+           "worried that they will always be depressed and they won't have any "
+           'fun. They set a sisterhood bond between the four of then telling '
+           'each other that they will always be there for each other no matter '
+           'what. Then the summer hits and they have the best summer ever. '
+           'This book really stood out for me in a meaningful way presenting a '
+           'powerful story of love. It shows that best friends can be '
+           'independant and have as much fun solving problems on their own. '
+           'This book really gave me a lesson in life and its a great book to '
+           'read.'],
+          ['What I would give for  pants and friends like this...',
+           'Shopping for a swimsuit is the ultimate fashion terror but jeans '
+           "shopping is a close second. Ann Brashare's has cleverly tapped "
+           'into the female psyche by creating a magical pair of thrift store '
+           'jeans that look fabulous on four friends who are different sizes '
+           'and body types. The four girls are separating for their summer '
+           'activities and decide the jeans are a talisman of luck that they '
+           'will share during the coming months.<br /><br />Tibby is working '
+           "at the fictional Wallman's (think Walmart) for the summer and "
+           'working on her documentary. Lena is traveling to Greece to stay '
+           "with her grandparents. Carmen's parents are divorced so she is off "
+           'to South Carolina for what she hopes will be some personal time '
+           'with her father. Bridget is an athlete who is attending a soccer '
+           'camp in Baja California and missing her deceased mother.<br /><br '
+           '/>Each girl keeps the pants for a week before they mail them off '
+           'to next \\\\"sister.\\\\" Things go wrong for all four girls but '
+           'their letters and support for each other help them through their '
+           'disappointments. It becomes a summer where the girls learn about '
+           'themselves. The stories of Tibby and Carmen were very touching.<br '
+           "/><br />The magical pants are amazing but the book's success is "
+           "due to junior high girls' yearnings to have a group of friends as "
+           'kind, helpful and supportive. Hey, most folks would be happy with '
+           'one dear friend like this. (Most of the girls I know like the 1st '
+           'and third books the best.)'],
+          ["Seeing yourself through someone else's pants",
+           'In each of the three Sisterhood of the Traveling Pants books, Anne '
+           'Brashares opens and closes with a 1st person introduction from one '
+           'of the girls.   At first this seemed odd and disjointed to me '
+           'considering that the bulk of the novels are written in 3rd person '
+           'limited; however, as I thought about it more, I realized this was '
+           'a simple, effective way to set up the background of the girls '
+           'while plausibly introducing the pants.  And the 1st person '
+           'narrative prologue/epilogue allows Brashares to start and end the '
+           'novel neatly within the confines of her chosen time table (Summer '
+           'Vacation), by setting up a master of ceremonies to quickly '
+           "summarize the previous year's action and foreshadow the summer yet "
+           'to come.    <br />In each novel, she uses a different girl to set '
+           'the story.  While each is effective, the first novel and the first '
+           'girl, Carmen, are the most significant because they set the '
+           'pattern.  Brasher discusses her motivation for choosing Carmen in '
+           'a Q & A session on her fan club website: \\\\"Carmen struck me as '
+           'the person who was most conscious-who recognized the importance of '
+           "the girls' friendship. She didn't just live it, she knew it inside "
+           'and out. I think she\'s the most introspective of the four.\\\\"  '
+           'This was very helpful for me to see that Brasher did not choose '
+           'Carmen merely because she was the character who actually purchased '
+           "the `Traveling Pants', but because she was the most qualified to "
+           'make the introduction. <br />Moving from the prologue to the body '
+           'of the novel, Brasher realizes an amazing feat- she moves from 1st '
+           'person to third person limited without sacrificing tone.  She '
+           'accomplishes this by setting up a dialogue in which all the girls '
+           'are present, but Carmen is the main participant initially.  Then, '
+           'using a technique prominent in stories with multiple heroes, '
+           'Brashares adopts a rotating third person limited point of view for '
+           'the body of the novels, which serves as a tool to broaden the '
+           'general plotline. Simply stated, by having a chronological access '
+           'to into the activities and thought processes of all four '
+           'characters, the plot unfolds rapidly.  Each girl is showcased in '
+           'two possible ways: 1. when she is in possession of the pants, or '
+           '2. when something of major significance is happening to her. '
+           'Therefore the switching view point eliminates the need for '
+           'erroneous transitional scenes and allows the events of the book to '
+           'all be exciting or informative or, in most cases, both.  For '
+           'instance, not one time in any of the three books does Brashares '
+           'relate the mundane details of the everyday lives of the girls; at '
+           'the point when this would normally occur, she switches point of '
+           'view.   <br />Initially, in the original Sisterhood novel, the '
+           'switching is slightly confusing.  As I mentioned earlier, Brasher '
+           'does a great job of maintaining tone, but at first it is a little '
+           'difficult to determine who is actually speaking.  But, as the '
+           "novel progresses, the girls' individual voices begin to develop.  "
+           'In fact by the end of novel, the girls are highly '
+           'distinguishable.  An explanation for this immediately spring to '
+           "mind- this is Brashares' first book and it took her a little while "
+           'to warm up.  But as I thought about it more I realized that this '
+           'may be a reflection of what is happening in the life of the girls- '
+           'first they function as group with a collective voice, but as they '
+           'spend time apart and find they can survive, they begin to develop '
+           'stronger individual voices.   <br />'],
+          ['Female coming of age, with great pants.',
+           'That rare coming of age story, about girls--this book is very well '
+           'written.  Each character is very uniquely its on self and well '
+           "drawn out.  The pants aren't so much the importance as the "
+           'sisterhood is.<br /><br />My personal favorite girl to read about '
+           'was Tibby, her character had the strongest sense of growth in this '
+           'book and probably the most emotional ride.  Of course none of the '
+           'other girls avoid an emotional moment.  This book does not fall '
+           'under the light read category as it does deal with real issues, '
+           'death, remarriage, sex, etc. Things that real girls deal with, and '
+           'they are dealt with in a real way. The girls being overwhelmed and '
+           'frightened, as fifteen year olds are.<br /><br />The book picks up '
+           'enough by the end to make one want to read on in the next book.  A '
+           'great book for any girl in middle school or older.'],
+          ['Surprising',
+           'When I first heard about the hype on this book, I did want to test '
+           'it out.  I just kept putting it off because the genre was not '
+           'really the type of reading I usually go for.  Last week I finally '
+           "said I'll just get it over with before the movie comes out.   <br "
+           '/>I cannot believe how much I liked it.  I read it in one night.  '
+           "The magical pants were a very nice touch.  I can't pick a favorite "
+           'of the girls, because they all have great personalities that '
+           'remind me of myself at that age.   <br />I have to say that the '
+           'reason I gave the book four stars was because a lot of adults may '
+           "get irritated by the writing.  It didn't bother me so much because "
+           'I feel that girls at that age did talk like that and the author '
+           'just wanted to reflect on that.   <br />I think everyone should at '
+           "least try this book out, children and adults.  You'll at least "
+           'have a little fun.'],
+          ['Wishing for Magic Pants too',
+           'Yes, I picked up this book when I heard about the movie, so what.  '
+           "I usually don't pay much attention to books on the bestseller list "
+           'because they can be somewhat disappointing, but not this one.  It '
+           'made me wish for my three friends and I from high school to be as '
+           'close as we were then, but as adults we tend to let careers, '
+           'marriage, and children over take the simple pleasures of what a '
+           'good friendship can bring.  So I learned a valuable lesson from '
+           'reading this book about the teenage point of view.  I have since '
+           'made contact with these close friends and to my astonishment it '
+           'has been successful, no magic pants needed but it would be nice.'],
+          ['traveling pants',
+           'I first bought this book for my younger sister as a gift. She read '
+           'it and told me it was one of the best books she had read in a '
+           'while and that I should read it too.  When I read it I was '
+           'surprised by how much I enjoyed it and went out to buy a copy of '
+           'it for myself.'],
+          ['Surprisingly engaging',
+           "I have a confession to make: I didn't really expect to enjoy The "
+           'Sisterhood of the Traveling Pants.  I thought it was just another '
+           'nondescript young adult book with nothing about it to set it apart '
+           'from any other.  Instead, I was pleasantly surprised.  It is a fun '
+           'and engrossing read. <br /> <br />Author Ann Brashares tells the '
+           'story from four alternating points of view.  Unlike the majority '
+           'of young adult novels, this one is told in third person, but it is '
+           'the sort of third-person narrative that makes the reader think '
+           "it's written in first-person (which I mean as a compliment in this "
+           "case; it showcases each girl's personality beautifully).  The "
+           'stories all take place over the course of the same summer and '
+           'revolve around best-buds Lena, Bridget, Carmen and Tibby.  Lena, '
+           'the introverted beauty of the group, goes to Greece with her '
+           'sister to visit relatives, and tries to resist falling in love.  '
+           'Carmen (\\\\"the one with the temper\\\\") goes to South Carolina '
+           "to visit her father and finds - much to her surprise - she's about "
+           'to gain a stepfamily.  Bridget, the athlete, falls in love/lust '
+           'with a hot counselor at summer camp, and Tibby, the rebel, finds '
+           'an unexpected friendship while working in minimum-wage drugstore '
+           'hell. <br /> <br />Though at times the characters seem as though '
+           "they're going to be two-dimensional (the pretty girl! the sporty "
+           'girl!) they remain 3-D throughout, never crossing the border into '
+           'caricature.  All four stories are captivating, though I personally '
+           "found Tibby's and Bridget's to be the most interesting.  Evidently "
+           'there are two sequels to The Sisterhood of the Traveling Pants, '
+           "and I can't wait to read them."],
+          ['Great book!',
+           'This book is for people of ALL ages. Everyone can relate to at '
+           'least one of the characters and it takes you back to the times '
+           'when you were a little bit younger and things were a little bit '
+           'simpler, or so it seems upon reflection. <br /> <br />I hope the '
+           'movie is as good as the book. Highly recommend this one!'],
+          ["Can't put it down!",
+           'I remeber seeing the previews for the movies with a bunch of '
+           'friends and we all talked about how when the movie comes out, we '
+           'were going to come see it. Well i thought the movies was great. A '
+           'couple of weeks ago i was given the oppportunity to read the book. '
+           'It is a little different from the movie but those of you who like '
+           'to read would probably enjoy the book more. Overall it was great '
+           "and i couldn't put it down. Instead of doin the reading (Les "
+           'Miserables by Victor Hugo)for my English class I would read the '
+           'Sisterhood. It got me a little behind on my other readding but i '
+           'think it was worth it!'],
+          ['Fun Summer Read',
+           'This was a fun, light read that was well written.  The author made '
+           'you think and draw your own conclusions as to what happened to '
+           'each of the girls.  I recommend it to females high school age on '
+           'up. My book club loved it, and their ages span 28-40.'],
+          ['No Problems',
+           'I got the book in a timely manner and in good condition. It is a '
+           'great story.'],
+          ['this book was a great learning novel!',
+           'this boook was a great one that you could learn from. it not only '
+           'teaches the imponrtance of family and their values but it also '
+           'deals with basic issues that teens and some kids even deal with.  '
+           'this book is about 4 best friends who are for the first time in '
+           'their lives spending their summer apart. one day they are all in '
+           'one of the girls rooms and finds a pair of pants that were tucked '
+           'away in her closet.  once all four  of them try them on they '
+           'realize that there is really something special about these pants.  '
+           'seeming as how all 4 girls are differnt shapes and sizes and '
+           'somehow the pants fit all of them,  they realize that these pants '
+           'were the start of something special.  immediatley following they '
+           'decided to make up certian rules abut the pants such as you must '
+           'write the best thing u did while wearing the pants over your '
+           'summer on the right leg and also some silly things such as to '
+           '\\\\"never pick yuor nose while wearing the pants.\\\\"  this book '
+           'follows the girls throuh their summers in differnt places of the '
+           'world and through all of the different obstacles that life takes '
+           'them through. it can really teach you alot not only about what is '
+           'going on around you but most imporntantly about yuorself.  i would '
+           'give this book 4 stars and would reccommend it to anyone who seems '
+           'the slihgtest bit interested.'],
+          ['Sisterhood of the Traveling Pants',
+           'Great read - better than the movie.  If you liked the movie, '
+           "you'll love the book."],
+          ['HAVE PANTS WILL TRAVEL...',
+           'This book is a great book for teens. There are a lot of moments '
+           'that teens can relate to because the characters are teenagers and '
+           'have typical teenage situations.  It is a fun book to read because '
+           'the characters become better friends by sharing magical pants.  '
+           'This fictitious, yet intriguing, aspect of the book keeps the '
+           'reader interested.'],
+          ['Traveling with the sisterhood',
+           'The book takes you on a trip with four wonderful characters that '
+           'both grow up together and apart. These girls teach younger readers '
+           'what it means to stay true to yourself and be a great friend to '
+           'others. I bought it for my thriteen year-old niece after reading '
+           'it and now she is in love with the series...who can blame '
+           'her....Amazing work by Ann Brashares'],
+          ['Sisterhood of the Traveling Pants',
+           'Great story for young and old.  Wonderful message for young '
+           'girls.  Loved it!'],
+          ['The Sisterhood of the Traveling Pants',
+           'Ann Brashares The Sisterhood of the Traveling Pants is one of the '
+           'best books I have ever read.  Brashares allows readers to see what '
+           'a true friendship is.  The main topic of this book is friendship.  '
+           'Four girls who have been friends since before birth are going to '
+           'spend their first summer away from each other.  Carmen will head '
+           'off to South Carolina to spend time with her dad, Lena will go to '
+           'Greece to see her grandparents, Tibby will spend her summer '
+           'working at the local drugstore Wallmans and Bridget will head to '
+           'Baja, California for soccer camp.  The only things that will keep '
+           'the girls together over the next few months will the \\\\"magical '
+           'pants.\\\\"  These pants fit each girl and make them look great.  '
+           'This was an excellent book.  Once I started reading it, I never '
+           'wanted to put it down.  I cannot wait to read the Second Summer of '
+           'the Sisterhood.'],
+          ['It started it all!!!',
+           'I love this book!!! When I read the first page in the book, I '
+           "couldn't stop! The sisterhood of the traveling pants had me glued "
+           'into it!!! My parents would actually tell me to stop reading it!!! '
+           'Weird huh?  <br />The book tells how four very close friends spend '
+           "their summer apart, but they're still together using one pair of "
+           'pants to reach each other. I love this book so much! I read the '
+           "second, and now I'm reading the third!!!"],
+          ['This is a great Book!!',
+           'When My friends started reading this book, we all laughed at the '
+           'name thinking how good can that book be? Well the answer is '
+           'really, really good. THis is the time when the expression \\\\" '
+           'don\'t judge a book by it\'s cover\\\\" comes in. After my friend '
+           'finnished reading \\\\" The Sisterhood of the Traveling Pants\\\\" '
+           'She urged us to read it, saying that it was one of the best books '
+           'she ever read. WE all did just to humor her. But in the end we all '
+           'agreed that it was one of the best books ever. THis book is about '
+           '4 girls and their first summer ver apart. THe adventures each girl '
+           'had was just so much fun to read about. When reading it I really '
+           'felt like I was standing in on the story watching it all happen '
+           'right before my eyes. This book was really fun to read and an '
+           'amazing book. I deffinatly recemend it.'],
+          ['Traveling pants',
+           'Great book and a quick read,  I will be buying the other 2 soon.'],
+          ['The Sisterhood of the Traveling Pants',
+           'The Sisterhood of the Traveling Pants, is for ages 12 and up. '
+           'Carmen, Tibby, Lena, and Bridget are best friends that discover a '
+           'pair of magical pants. These wondrous pants fit each one of their '
+           'very different body types. The summer brings new and difficult '
+           'challenges, with all four girls splitting up for the first time. '
+           'This is the summer about finding their identities in terms of who '
+           'they are, and who they want to be. Carmen struggles with accepting '
+           'the fact that her father is getting remarried and has adopted a '
+           'new family. Tibby home alone for the summer makes a new friend '
+           'with a 12 year old girl who has leukemia. Lena is flying to Greece '
+           'to see her grandparents, and discovers a new love, and Bridget is '
+           'at soccer camp meeting the man of her dreams. But through each '
+           'issue, every girl is sure of the love and support of one another. '
+           'The pants guide them through all their crises and troubles, '
+           'feeling that the magical pants have a part of each girl in them. '
+           'The sisterhood bond is so strong that no matter where they are in '
+           'the world they will always be there for each other no matter what. '
+           '( Rule #10: \\\\"Remember: Pants = love. Love your pals. Love '
+           'yourself. \\\\") <br /> <br /> This book is the heart warming '
+           'story that will keep you turning page after page after page. They '
+           'learn much about love, life, and their identity. The sisterly bond '
+           'between four girls teaches you trust and understanding. This is a '
+           'book that the reader would not want to end, wanting more volumes '
+           'to come. It is a funny, loving, and memorable book. <br />'],
+          ['A Story Of Friendship (and a pair of pants)',
+           'This is one of those books that you read again and again and '
+           'again, and every time you read it you get a new piece of '
+           "information from it.  I've read this book countless times and I "
+           "still haven't gotten tired of it.  This review is kind of long, so "
+           "if you don't have time to read all of it you can skip to the last "
+           'paragraph.    The Sisterhood of The Traveling Pants is about, you '
+           "guessed it, a pair of pants.  It's also about four girls who have "
+           'known each other before they were born (their mothers took an '
+           'aerobic class for pregnant women together) with four very '
+           'different personalities but, despite how different they are from '
+           'each other, they managed to construct a very close relationship.  '
+           'Lena, Carmen, Bridget, and Tibby, age 15, are about to spend their '
+           "first summer apart. Lena's going to Greece to visit her "
+           "grandparents, Carmen's going to South Carolina to see her "
+           "out-of-state dad, Bridget's going to Mexico to an all-girls soccer "
+           'camp, and Tibby\'s staying home and \\\\"launching a carreer and '
+           'Wallman\'s [store] for five cents over minimum wage.\\\\"  On '
+           "their last day together, Tibby spots a pair of jeans in Carmen's "
+           'closet and asks Carmen if she can have them.  Carmen, who had '
+           'bought the pants at a nearby thrift shop just for the sake of '
+           'buying something there and had never actually tried them on, '
+           'silently handed the pants (THE Pants) over to Tibby.    Lena, '
+           "without knowing that Carmen hadn't tried them on, said to Tibby, "
+           '\\\\"Don\'t you think you should try them on?  If they fit Carmen, '
+           'they aren\'t going to fit you.\\\\"  It wasn\'t really an insult, '
+           'though--Tibby and Carmen have completely different builds.    '
+           'Tibby tried them on and they fit her perfectly. Then a feeling of '
+           'uneasyness washed over her.  She handed the pants over to Lena.  '
+           '\\\\"You try them on.\\\\"  Lena tried them on and they fit her '
+           'perfectly.  Lena tossed the Pants to Bridget and had her try them '
+           "on.  The four girls watched in awe as the pants slid up Bridget's "
+           'thighs and rested gracefully at her hips.  By the time Carmen '
+           'tried them on, they knew something extraordinary was happening; '
+           'these pants were fitting (and really fitting) four girls with four '
+           'competely different builds; and once they were on Carmen they were '
+           'left without words.    \\\\"These are magic pants,\\\\" Carmen '
+           'said as she studied herself in her mirror.      They thought it '
+           'was like an omen to have \\\\"recieved\\\\" the pants just on the '
+           'day before they split up for the summer, so they decided to share '
+           'the pants with each other over the summer.  I think this was sort '
+           'of a way to comfort the girls, to make them feel like they were '
+           'together when they were really not.  They decided the order in '
+           'which the pants would travel (first Lena, then Tibby, Carmen, '
+           'Bridget, and then Bridget, Carmen, Tibby, Lena, each girl keeping '
+           'them for no more than one week so they could last the whole '
+           'summer) and decided upon a set of rules to follow while wearing '
+           'the pants.  Lastly, they took and oath for the pants:     \\\\"To '
+           'honor the Pants  And the sisterhood,  And this moment and summer '
+           'and rest of our lives,  Together and apart.\\\\"    To you right '
+           'now, it may sound kind of stupid to take an oath to a pair of '
+           'pants, but this was really improtant to the four girls:  They were '
+           'closer than close, and as Carmen said in the Prologue, '
+           '\\\\"Sometimes is seems like we\'re so close that we form one '
+           'complete person rather than four seperate ones.\\\\" Having the '
+           'pants to share was improtant to them.    Once they took the oath, '
+           'the wild summer began.  The sisterhood thought that the pants '
+           'would bring them good luck, but in truth at first they brought the '
+           'opposite.  Lena, who was \\\\"set up with a boy within the first '
+           'six hours of her arrival\\\\" in Greece, was caught skinny-dipping '
+           "in a lake by the boy, named Kostos.  Lena doens't even want to "
+           "know him.  She's beautiful, with long, dark hair, Mediterranean "
+           'skin, and \\\\"eyes roughly the color of celery\\\\", so naturally '
+           "boys are attracted to her, but Lena doesn't trust them and is very "
+           'tough on them.  Kostos is no different.  When her grandmother '
+           'finds out (or thinks she finds out) what happened to Lena at the '
+           "lake, she tells Lena's grandfather and he goes to find Kostos to "
+           'beat him up.  It may sound hilarious at first, but believe me, it '
+           "gets serious.  Kostos's grandfather tries to protect Kostos and "
+           "the grandfather's then get into a serious fight, resulting Lena's "
+           'grandparents hating their otherwise best friends, all because of '
+           'her.      The pants are then sent off to Tibby.  Tibby, who is '
+           'stuck at home in Bethsda, Maryland, has managed to make friends '
+           'with a bothersome 12 year old with leukemia, named Bailey.  Tibby '
+           'sees their friendship as something that is just proving how much '
+           'she misses her own friends, (a 15 year old hanging out with a 12 '
+           'year old?) but then they start to get really close when they begin '
+           "filming a documentary together (Tibby's idea).  Bailey meets Tibby "
+           'every day at four, the end of her Wallmans shift, and then they '
+           'work on the movie together.  TIbby begins to realize that Bailey '
+           'looks at people in an entirely different way than she has.  For '
+           'example, one day they are sitting at a fast food restaurant and '
+           'Tibby sees a guy, Tucker Rowe, that she thinks is really hot.  '
+           'Baliey notices who Tibby is looking at, and then claims, \\\\"I '
+           'think he looks stupid.  Does he really think those earings look '
+           'cool?  And I mean, look at his hair.  How much gel went into that '
+           'hair?\\\\" It was then that Tibby began to realize that Bailey saw '
+           'people for who they really were on the inside, while Tibby only '
+           'saw what was on the outside. Tibby sends the Pants to Carmen, with '
+           'a letter including, \\\\"...I can\'t figure out what the Pants '
+           "meant to me yet.  It was either profound or not.  I'll tell you "
+           'when I know...\\\\"    So, the Pants were off to Carmen.  Carmen, '
+           'as I said before, was visiting her out-of-state dad who she '
+           "doesn't get to see much since her parents got a divorce.  She had "
+           'it all planned out in her head:  what they would do, where they '
+           'would go, what his house would be like.  But Carmenn had a huge '
+           'surprise awaiting her.  Her father, as said by Carmen, was '
+           '\\\\"now Albert and marrying Lydia and lives in a house full of '
+           'Kleenex boxes and playing father to two blond people.\\\\"  Carmen '
+           "feels she doesn't fit in because she's Puerto Rican(she takes "
+           'after he mother) and \\\\"has a big butt\\\\".  In the Pants, she '
+           'gets so angry at her father for not telling her sooner that she '
+           'throws a rock at their window while the rest of the family is '
+           'eating, and then runs into the woods to cry.  The next day, she '
+           'packed and left for home.  Shen quickly sends the Pants off to '
+           'Bridget saying, \\\\"I hope these pants bring you...good sense.  '
+           'Let me tell you from recent experience a little common sense is a '
+           'good thing.\\\\"    Bridget recieves the pants but doens\'t look '
+           "at Carmen's note right away, which turned out to be a very bad "
+           "thing.  She'd found this guy, Eric Richman, she liked at her camp "
+           '(yes, this was an all girls camp, but there was a guy soccer coach '
+           'that Bridget finds \\\\"every kind of hot\\\\") and even though it '
+           "was against camp rules, Bridget's relationship with Eric was "
+           'getting serious.  Bridget wanted it, and Eric wanted it too.  If '
+           "you know what I'm talking about. When they both get it, Bridget "
+           'gets scared.  (For parents worried about buying this books for '
+           'their children because of this, you have nothing to worry about.  '
+           "It doesn't go into the details of what went on between Bridget and "
+           "Eric, and if your child doesn't know anything about what they were "
+           "doing, she won't get it.  The author did this to make the book "
+           'more interesting, to \\\\"crank it up\\\\" a bit for the reader.)  '
+           'She sends the pants back to Carmen with a note saying, \\\\"I\'m '
+           'very mixed up.  If I had listened to your advice about good sense, '
+           "I wouldn't be like this.  So right back at you.  Good sense "
+           'rules.  I wish I had some.\\\\"    You may be begining to see that '
+           'the pants seem to have gotten these girls all mixed up:  Lena, '
+           'causing her grandparents to have a huge fight with their best '
+           'friends over something that never actually happened, Tibby, stuck '
+           'with a 12 year old making a documentary, Carmen, angry and '
+           'confused about her father and his new family, and Bridget, who is '
+           'shaken up over Eric.  But, as Carmen narrated in the Prologue of '
+           'this book, \\\\"change\\\\" was just The Way of the Pants.  So, '
+           'these girls all experience a profound change before the book is '
+           "over.  I can't tell you the change, though.  You'll have to read "
+           'the book to find out.      This book, I think, shows how far and '
+           'great friendships can go, how you can learn and grow from your '
+           'mistakes, and how no matter how far away you are from the ones you '
+           'love you will always be \\\\"together and apart\\\\", whether you '
+           'have a pair of Traveling Pants or not. What Lena, Tibby, Carmen, '
+           'and Bridget really did was keep each other in their hearts, and '
+           "that's all you need to manage."],
+          ['not just for kids',
+           'OK, so these four friends are a little too self-aware, a little '
+           'too ready to admit their faults, to be quite like any actual '
+           'teenagers the world has ever seen.<br /><br />So what?<br /><br '
+           "/>I'm 36, and I loved this book.  It's better than reality; it's "
+           'mythmaking of the best kind.  The premise:  four girls, best '
+           'friends since birth, face tests of character during their first '
+           'summer apart.  The cautious one must choose whether to risk '
+           'heartbreak for a chance at love.  The insecure one must choose '
+           'between envy and generosity of spirit.  The cynic is confronted by '
+           'a girl who epitomizes zest for life.  The wild one rushes headlong '
+           'toward trouble.<br /><br />This novel takes the standard teen-girl '
+           'formula (Will our heroine land the cute guy in time for the big '
+           'dance?) and turns it inside out.  It poses the question, will our '
+           'heroines overcome their weaknesses and find the courage to face '
+           "life's challenges?  While this sounds like the stuff of a "
+           'Victorian-era Sunday-school lesson, the book manages admirably to '
+           'avoid preachiness.  I was delighted that friendship, rather than '
+           'pursuit of romance, is the central theme here.  Yes, boys do come '
+           "into the story, but only enough to spark the girls' own spiritual "
+           'development.  In stark contrast to other books for this audience, '
+           '\\\\"getting the guy\\\\" is not an end in and of itself.<br /><br '
+           '/>Not that this book is perfect.  Some characters -- Tibby for one '
+           '-- are sketched so thinly as to remain hard to figure out.  Too '
+           'many people are described as having \\\\"skin so white it looked '
+           'blue\\\\".  And in a very old and uninspired plot device in the '
+           'sequel, shy Lena is saved from heartbreak with Boy #1 by falling '
+           'straight into the arms of Boy #2.  (Yes, girls, forget every '
+           'aforementioned tribute to friendsip and independence.  Having a '
+           'boyfriend is what really makes life worth living.)<br /><br '
+           '/>Still, those are fairly minor points.  The book is good:  warm, '
+           'moving, and inspirational.  Give it to a girl you love.  And read '
+           'it yourself, first.self, first.'],
+          ['hdshjk lofdnh',
+           'asdjkchsdnjkv jkdcvndjlksrnh jkslfavnh ?Ld asghcfa ;fnmd,.fn  '
+           'hfbvn skjvb jskvb, sfjkbvlafbja sbhkdvgqkfb vdk dksbvas jalba;siq '
+           'qoubsjl salbz jdsvnrk db jkshjlv ab bskcba ldj djlsbvuwej jweubc '
+           'ks  ksdlfne.wukeg qeukbfc,aSMnqcw dxc'],
+          ['The sister hood of the traveling pants',
+           'The Sister Hood of the Traveling Pants             <br />Ann '
+           'Brashares  $8.95 <br /> Have you ever felt like your whole world '
+           "is coming to an end? Well that's an ordinary story for these four "
+           'best friends. Lena, Tibby, Bridget, and Carmen have spent every '
+           'summer together since they were born.  Their lives were marked by '
+           'summers, but this summer everything will change.  Lena and her '
+           'sister are flying to Greece, Bridget is going to soccer camp in '
+           "California, Carmen's visiting her father across the country, and "
+           'Tibby staying home. Each in for a summer they will never forget, '
+           'and encounter life in full throttle. Hoping that a single pair of '
+           '\\\\"magical\\\\" pants will keep them together, and give them '
+           'courage. Each sending their stories on the pants across the world. '
+           'This fascinating unforgettable tale of hope and courage is full of '
+           'life lessons and believing in yourself.  Will their summers go as '
+           'planned?  What magical journeys will these pants encounter? This '
+           'book is a real nail bitter, and will keep you on the edge of your '
+           'seats. <br /> I loved this book, it was full of love in '
+           'friendship. This book is one that any teenager can relate to.  Ann '
+           'Brashares really gets inside your head and shows amazing detail of '
+           'the girls emotions.  <br />If you enjoy this book, it also has a '
+           'sequel, The Second Sister Hood of the Traveling pants. <br />'],
+          ['sister hood',
+           'The Sisterhood of the Traveling Pants written by Ann Brashares is '
+           'an amazing book. This book is great for people ages 10 and up.  '
+           'The sisterhood is funny and heart-warming.  It is about Bridget, '
+           'Carmen, Lena, and Tibby, who are all spending the summer apart for '
+           'the first time. Then the most wonderful thing happens; they find '
+           'the traveling pants.  So now the pants are going around the world '
+           'to Greece with Lena, to Baja California with Bridget, South '
+           'Carolina with Carman, and home in Washington D.C. with Tibby.  '
+           "Don't read the second book with out reading the first book."],
+          ['The Sisterhood of the Traveling Pants',
+           "The Sisterhood of the Traveling Pants was a great book it's about "
+           "a lot of things and different adventures but most of all it's "
+           'about friendship between four girls. One girl from there group '
+           'went to a store like goodwill and brought these used pants. All of '
+           'the girls tried the pants on they happen to fit of the girls, but '
+           'of course they were all different sizes. <br /> I enjoyed reading '
+           'this book. It reminds me of when I was in the 8th grade me and a '
+           'couple of friends brought t-shirts on the last day of school so '
+           'every one could sign the shirts even teachers. We did that because '
+           'we knew that we would probably not go to the same high school and '
+           'people were going to move away. I recommend this book to anyone '
+           'who is looking for a good book to read and enjoys reading books '
+           'about good friendships.     <br />'],
+          ['finally a great series for young adult readers',
+           'Before I hit age 13, I was a veteran reader of various young adult '
+           "book series, such as The Babysitter's Club and Nancy Drew.  Having "
+           'long past the target-reader age, I have been pleased to discover '
+           'two series of novels that far surpass any other young adult '
+           'fiction in both plot development and character development.  These '
+           'two series, which are completely unlike each other except in my '
+           'love of them, are the Harry Potter books and the Sisterhood of the '
+           'Travelling Pants books.  In the Sisterhood books, Ann Brashares '
+           'brings colorful, well-developed characters and well-thought-out '
+           'plot lines to life.  Even the most seasoned adult reader can revel '
+           'in memories of being a teenager and fall in love with these '
+           'characters as they grow and change throughout the pages.  I '
+           'sincerely not only loved these books, but also felt myself drawn '
+           'into how dynamic they are, growing and changing from the beginning '
+           'of the novel to the end, and even moreso from the first book to '
+           "the last.  If you haven't read them, you must!"],
+          ['Not just for teens!',
+           'I picked up this book to see what all my 8th grade girls (I teach '
+           'them!) were raving about.  I loved this story so much I had to run '
+           'out and buy both sequels!  The girls are warm, funny, deep, '
+           'charming, and oh-so-adolescent.  I found little pieces of myself '
+           'in each of the girls and also found myself thinking of things that '
+           "happened years ago that I haven't thought of in a long time.  This "
+           'was a light read for a great trip down memory lane. <br /> <br '
+           '/>With that said, I would agree that all of the content is not '
+           'appropriate for every young reader.  The novel does handle some '
+           'mature themes, but it does so tastefully and without much detail.  '
+           'The reader is mostly left to fill in the blanks for herself.  In '
+           'fact, one blank I had incorrectly filled in, as I learned in the '
+           'Second Summer!  Parents should use a bit of caution for younger '
+           'readers.  I always advise my parents to read up for themselves '
+           'before recommending books to their teens. <br /> <br />Mature '
+           'girls will surely love this novel.  And an older generation will, '
+           'too. <br /> <br />Read it!  This one is a great one!'],
+          ['These Four Girls',
+           'I had to write an article for school and I thought it may help '
+           'people understand the book more. -Natalie <br /> <br '
+           '/>                   These Four Girls <br />When thinking of '
+           "writing an article for this month's column, I wanted something "
+           'that told a story of some amazing people that live in South '
+           'Carolina. I found the perfect group of friends to write about. '
+           'They have been friends since before they were born. Their mothers '
+           'were best friends and had their babies around the same time. These '
+           'four girls are amazing, fun, and wild. Unfortunately I could only '
+           'talk to one of them because the rest of them are out having summer '
+           'adventures. I asked Tibby, the one who stayed home, how they '
+           'stayed in touch. Her answer was, the pants.  <br /> <br />They '
+           'were just ordinary pair of thrift-store jean until these four '
+           'girls each tried them on. Amazingly they fit each girl perfectly. '
+           'Now they have rules to follow while wearing the pants. They send '
+           'the pants back and forth to each other over the summer. Each girl '
+           'writes notes to go along with the pants. In the notes, the girls '
+           'state what happens in the pants and how they are doing. The first '
+           'girl to get them is Lena. She is in Greece for the summer to be '
+           'with her grandparents. Lena is a shy and quiet girl. Lena then '
+           'sends the pants to Bridget. Bridget is a strong and athletic '
+           'soccer player. She is at soccer camp in Baja, California. Bridget '
+           "then sends then to Carmen who is at her father's house in South "
+           'Carolina. Carmen is and out going and sometimes loud girl. And the '
+           'last one to get them is Tibby. Unfortunately, Tibby stayed home '
+           'for the summer. She tries to get extra money by working at her '
+           "local Wallman's. These process repeats all through the summer "
+           'until the girls reunite again. These pants are the bond that keeps '
+           "the girls feel close during the summer. These four girls' bond is "
+           "known as `The Sisterhood of the Traveling Pants'."],
+          ['Five stars for four sisters and a pair of well-loved jeans!',
+           'They didn\'t start out to be the \\\\"Sisterhood of the Traveling '
+           'Pants.\\\\"  <br /> <br />Actually, about 16 years before, their '
+           'trendy 1980\'s Moms started out as the \\\\"Septembers\\\\" in a '
+           "prenatal work out class at an exercise salon called Gilda's.  The "
+           'four mothers became friends.  Their daughters (and one twin son) '
+           'were born within 17 days of each other. <br /> <br />As time went '
+           'on, the mothers lost that friendship to careers, family, and other '
+           "concerns, but the daughters continued on.   <br /> <br />They're "
+           '15 now and this is their first summer apart.  Lena (the beautiful '
+           'one) is going to Greece to visit her Grandparents for teh first '
+           'time.  Bridget aka Bee (the athlete) is going to soccer camp in '
+           "Baja, Carmen (who doesn't quite know who she is) is going to spend "
+           "her first summer with her Dad, who'd divorced her Mom several "
+           'years before.  Tibby, (the Goth) is going to stay home and work at '
+           "Wallman's drug.  She's going to film a documentary (she calls it a "
+           'suckumentary) about how bad her summer is going to be.  <br /> <br '
+           '/>On the eve of their separation, they discover a pair of jeans '
+           'that fit them all.  This is no mean feat since Carmen is '
+           'bodacious, Bee is tall and lanky, etc.   <br /> <br />The book is '
+           'the story of how the pants see them through a summer  of growth '
+           'apart and also bind them together.  I saw the film before I read '
+           "the book and I love both of them.  This is not common.  I don't "
+           'really like these kinds of stories, but Brashears writes engaging '
+           'and heart-warming characters.  This book is definitely a must for '
+           'women of all ages who want to capture the spirit of sisterhood.'],
+          ["Teenage Girls' Book",
+           'Ann Brashares creatively brings together 4 best friends with a '
+           'pair of pants. But these are no ordinary pants, as they can fit '
+           'anyone, while making the wearer look fantastic. <br /> <br />The '
+           'story follows these four girls as they seperate for the summer, '
+           'each going their own way. Lena leaving for Greece, Bridget for a '
+           "soccer camp, Carmen for her stepfather's home, and Tibby stays, "
+           "working a job at Wallman's. <br /> <br />The book is creative, "
+           "showing each girl's personality. The book at times does drag, and "
+           "you wish you were reading someone else's story, but an awesome "
+           'read.  <br /> <br />Every teenage girl or old woman should pick '
+           'this book up at least once.'],
+          ['A must read for all teenage girls',
+           'This is one of my favorite books of all time and one every teenage '
+           'girl should pick up at some time or another. Brashares skillfully '
+           "weaves together the tale of 4 very different girls' adventures "
+           'over one summer bringing them together by the means of a magical '
+           'pair of pants representing their friendship. while the idea of the '
+           'magical pair of pants may seem a bit farfetched to some, this '
+           "story couldn't be more true to teenage life. Both humorous and "
+           'heartwrenching, i enjoyed every page of this book. i especially '
+           'enjoyed the quotes that appeared at the beginning of each chapter. '
+           'i think every girl can relate to one of the characters in some way '
+           'or another. I find it almost scary how much i can relate to Lena. '
+           'My two best friends (who are a lot like Tibby and Carmen) also '
+           "love this book and we've started our own sisterhood v. similar to "
+           'the one in the book, which has made us even better friends.'],
+          ['EVERY teen girl should read this book...',
+           'I always heard about this book, but I never read until I saw a '
+           'preview of the movie. This book is GREAT!! It is really moving and '
+           "touching. Lena's summer was the only one I couldn't get into. This "
+           'book celebrates friendship.'],
+          ['Oustanding series of books',
+           'I started reading the books so i would know what my teenage '
+           'daughter was reading and to be able to talk to her about things '
+           "she was interested in.  I didn't believe i would be receiving much "
+           'enjoyment out of the series.  This was definitely NOT the case as '
+           "i loved the books so much i couldn't put them down and read them "
+           'in 5 days.  I highly recommend them.'],
+          ['The Whole Series Is Great',
+           'The book is really good. The plot of this book is good. It is '
+           'about four girls. One of the girls goes into a thrift shop and '
+           'finds a pair of pants. Her friends come over and try on the pants '
+           'and the pants seem to fit all four girls perfectly. The girls all '
+           'have different summer plans and this is the first summer they are '
+           'spending apart. Bridget goes off to soccer camp, Lena goes to '
+           'Greece, Carmen goes and visits her father and Tibby stays at home '
+           'and works at Wallmanns. They each agree on rules about wearing the '
+           'pants and agree to mail the pants to each in the summer. A really '
+           'good book.'],
+          ['Great book for all ages!!!',
+           'I would recommend this book girls/women of all ages. It is a great '
+           'coming-of-age story that will entertain everyone. The lessons '
+           'learned in this book could apply to not only teenagers, but to '
+           'older persons as well.'],
+          ['The Sisterhood of the Traveling Pants',
+           'The Sisterhood of the Traveling Pants was a wonderful book by Ann '
+           'Brashares. It held my interest until the last page and left me '
+           'wanting more. This book is about four teenagers: Lena, Tibby, '
+           'Bridget and Carmen. The story is about how they are all going to '
+           "spent they're summer away from each other for the first time. It "
+           'takes your through a jorney of emotions and events. Lena a '
+           'beautiful yet, reseved greek girl, who loves to paint. She gets '
+           'involve in a romantic relationship with a boy, Kostos, in Greece. '
+           'Tibby is a down to earth character yet, artistic in her own unique '
+           'way. She is the only girl that spends the summer in their '
+           'hometown. She gets to know a little girl, who later on turns out '
+           'to be dieing from cancer. Bridge is a blonde, athletic, and every '
+           'guys \\\\"dream\\\\" girl. Her mother died when she was young. She '
+           "discovers that boys and beauty aren't everything. Carmen is the "
+           'vibrant yet, tempermentle Spanish girl who lives with her single '
+           "mother. She doesn't get along with her mother's new boyfriend. The "
+           'Traveling Pants at this time are being mailed back and forth '
+           'between the four friends. It is what keeps them connected; even '
+           'tho they are all in different parts of the world. At the end all '
+           "four girls learn that life isn't happy and always fair. I "
+           'reccomend this to every teenage girls over 13. It a serious yet, '
+           'humorous novel about coming of age. Written and orgainzed '
+           'beautifully.'],
+          ["I'm 30 and I still loved it!",
+           'A younger Ya-Ya generation full of trials, love, friendship and '
+           'heartache are all in this wonderfully written book. I stayed up '
+           'all night to finish it! Each character is well developed. Although '
+           'you can guess what is going to happen, it touches you and I '
+           'devoured EVERY word and eagerly ran upstairs to grab the second '
+           'book.<br /><br />The girls all separate for a summer without each '
+           'other, each in the world on their own so to speak. They each take '
+           'a turn with the pants, but remembering all the rules of the Pants '
+           'Sisterhood. What is your favorite one? I am not sure about mine, '
+           'however I would have a really hard time NOT washing them! That is '
+           'just the mom in me though.<br /><br />I really am concerned about '
+           'Bee though. Making choices like she did at soccer camp really will '
+           'have a lasting impact and her impulsiveness could be even more '
+           'damaging. I already have started the second book.<br /><br '
+           '/>Remember: Pants = love. Love your pals. Love yourself!'],
+          ['The SisterHood',
+           "The Sisterhood of the Traveling Pants is an easy read. I don't "
+           'think that I ever finished a book within two days.I think that if '
+           'you are the kind of person to be into Realistic Fiction then this '
+           'book is for you.  <br />   The Sisterhood of the Traveling Pants '
+           'is about four girls: Tibby, Carmen, Lena, and Bridget. They are '
+           'spending their first summer away from each other and they only way '
+           'they can stay in touch is with a pair of \\\\"magical pants\\\\" '
+           'which Carmen picks up at a Goodwill Store. Each one of the girls '
+           'goes through a little adventure, meeting new people and growing '
+           'up.  <br />    The Sisterhood of the Traveling Pants brings '
+           'something different to the table for everyone that reads this '
+           'book. I am definitely going to read the second and third books to '
+           'find out what happens to all of the girls.  <br />'],
+          ['Well conceived and well written.',
+           "So glad I'm no longer a teenager. The trials. The tribulations. "
+           "Ann Brashares' novel The Sisterhood of the Traveling Pants is "
+           'about four very good teenaged girlfriends. Friends since before '
+           'they were born...within seventeen days of one another, beginning '
+           'at the end of August and ending in mid-September. Their mothers '
+           'took an aerobic class for pregnant mothers and became the '
+           '\\\\"Septembers\\\\" fifteen years ago. The girls carried on the '
+           'moniker as they grew up, even as their mothers grew apart and one '
+           'of their mothers died and one set of parents divorced.<br /><br '
+           "/>The story takes place during the summer preceding the girls' "
+           "sixteenth birthday. It's the first time they will be separated for "
+           'any length of time. Three will go away. One will remain in '
+           'Maryland. Just before the time of parting arrives, one of the '
+           'girls acquires a pair of pants in a secondhand shop. As each girl '
+           'tries them on, the pants miraculously fit their varying figures '
+           'perfectly, which gives each girl a strong dose of confidence and a '
+           'sense of belonging to one another even stronger than before. The '
+           'girls decide to share the pants over the summer by mailing them '
+           'back and forth. Rules are made as to how the pants should be cared '
+           'for, who gets them when, and so forth. The rest of the story takes '
+           'the reader through the events of the summer for Lena, who goes to '
+           'visit her grandparents in Greece with her sister Effie; Bridget, '
+           'who goes to soccer camp in Baja, California; Carmen, who goes to '
+           'South Carolina to spend the summer with her father; and Tibby, who '
+           'stays home in Maryland.  Keep a box of tissues handy.<br /><br '
+           '/>At the back of the book is a list of discussion questions and an '
+           'interview with the author, along with a list of additional reading '
+           'for young adults. A prologue for The Second Summer of the Pants is '
+           'also included. The movie version of this book is also now in '
+           'theaters around the nation.<br /><br />Carolyn Rowe Hill'],
+          ['True Friendships',
+           'I really bought the book because I wanted to see the movie so '
+           "badly. I'm so glad I did read the book first. It's been a while "
+           "since I read a book from book to cover in a matter of days. It's "
+           'easy and light and you find yourself addicted to the book and the '
+           "characters with in. <br /> <br />It's a slow start, but we get a "
+           'nice introduction to the four girls, the introduction to the pants '
+           'and what they mean, and where they are going for the summer. Each '
+           'girl I can *highly* relate to in one way or another. <br /> <br '
+           '/>Carmen - My second favorite character and is the main character '
+           'in the first book. Is strong, smart, determined, stubborn, and is '
+           'of a Puerto Rican background. Her summer she is to see her dad and '
+           'get to spend some time with him. However, learns that her father '
+           'is about to remarry, has a new home, complete with two step '
+           'siblings. This spins Carmen into a *very* emotional summer. <br /> '
+           "<br />Tibby - My favorite character. Is one who doesn't really "
+           "care what others think about her, she's very different from "
+           'everyone, but even though she seems wild and crazy on the outside '
+           "she's just the opposite on the inside. For her summer she gets to "
+           'stay at home and work at Wallmans, a local store to raise money '
+           "for a car. She's also in the process of making a documentary that "
+           'is until she meets an amazing and loving young girl named Bailey. '
+           '<br /> <br />Lena - My third favorite. Is the beauty of the group. '
+           "However, she hides it and hides who she really is. She's also very "
+           "shy around boys and doesn't care too much for them. Not to mention "
+           "she's also an extremely talented artist. For her summer she and "
+           'her sister Effie get to go to Greece and visit and met their '
+           'grandparents for the first time. Upon her arrival her grandmother '
+           'wants to hook her up with Kostos, an extremely handsome boy about '
+           "her age who's family is a very close friend to her grandparents. "
+           '<br /> <br />Bridget - Last, but not least we have wild and crazy '
+           "Bridget. She's the athlete of the group and a soccer champion. "
+           "She's also boy crazy and tries to always get what she wants. Even "
+           "if she knows it'll cause trouble and self destruction. In her "
+           "summer she's off to soccer camp and tries to heavily impress Eric "
+           "a coach that she's not allowed to be involved with. <br /> <br "
+           '/>Even though there are so many characters and so many things '
+           'going on this book is *very* well organized and easy to follow. '
+           '<br /> <br />This book has everything. Comedy, Romance, Culture, '
+           'and more! The girls experience life, but also try to remain in '
+           'contact with each other for emotional support and through the '
+           'pants. The movie is a wonderful adaption to Ann Brashares book. In '
+           "most cases you've heard the book is better. In this case even "
+           'though I love and adore the movie. This book is indeed ten times '
+           'better! I also have now become a big fan of Ann Brashares work and '
+           'will continue to follow her. <br /> <br />This book is about life, '
+           'love, and friendships. So get all comfy and grab your Kleenex box. '
+           "You'll most surely love The Sisterhood of The Traveling Pants!"],
+          ['For those who dislike this book!',
+           'People who say this book is boring, choppy, stupid, etc. is '
+           'because of the idea of the \\\\"magical pants\\\\". The low '
+           'ratings this book gets is (mostly) because of the \\\\"magical '
+           'pants\\\\", <br />and people think that is idiotic to have such a '
+           "thing. What they don't realize is the pants have a deeper "
+           'meaning.  <br />  In some ways the pants are magical because they '
+           'carry a part of the four friends with them. They show that friends '
+           'surround you perfectly, I guess you would say, no matter what '
+           'shape/size you are (which is what the pants do). That is what '
+           'these girls need while being away from their friends. <br />  So '
+           'if you think \\\\"magical pants\\\\" are a bad plot you should '
+           'think deeper than the surface. Although I do agree with everyone '
+           'who says this book is not for pre-teens, 14+ is appropriate. <br '
+           '/>'],
+          ['True Friendship',
+           'This is a novel about four best friends: Tibby, Lena, Bridget, and '
+           'Carmen. They have been together all of their lives and this summer '
+           'would be the first summer that they would spend apart. Lena was '
+           'going to Greece, Bridget was going to a soccer camp in California, '
+           'Carmen was going to visit her dad in South Carolina, and Tibby was '
+           'staying home. This novel shows the true meaning a friendship. <br '
+           '/> <br />This book is very easy to read and understand. The way '
+           'Brashares connects each of the girls makes the book even better. '
+           "Each girl has a different story to tell. The novel isn't focused "
+           "on just one of the girls. It's like the reader is actually reading "
+           'four different books that are tied together. All of the things the '
+           'girls go through are things that people can relate to. This '
+           'connects the reader with the novel. Bridget lost her mother and is '
+           "raised by her father. Carmen's parents are divorced and her father "
+           'is getting remarried. Lena is learning about her grandparents who '
+           'live in Greece. Tibby is stuck at home while all of her friends '
+           'are out of town. The stories of each girl are told through their '
+           'eyes so you understand where they are coming from and how they '
+           'feel. Sometimes their friends comment on things so the reader gets '
+           'more than just one persons point of view. At the end of their '
+           'journey they all learn an important lesson. Brashares took four '
+           'different stories and combined them into one novel, making it '
+           'different from other types of novels.    <br />'],
+          ['WOW',
+           'This book was amazing, and I originally bought it on a two week '
+           "trip to New Jersey. Thinking I wouldn't enjoy it, I only bought it "
+           'for some thrill on the trip. I actually breezed through it, having '
+           'only time to read it during the night, so I would stay up till '
+           'about two in the morning reading this fabulous book. I went out '
+           'and bought the second book and it too was an amazing read, because '
+           'these girls, in the prime of their high school years, were very '
+           'intelligent, beautiful and all were going through things that they '
+           'took with them. It was almost as if they were not just friends, '
+           'but partners in life, as if, each one clung to another more than '
+           'usual, and it was an amazing read. The comedy was outstandingly '
+           "funny and each character's persona was very filled with humor. At "
+           'the same time there was a lot of serousness involved, but they '
+           'still found a way to add a wise crack.'],
+          ['The Summer Of the Pants....',
+           'The Pants have magical powers for the four friends.  Lena, Carmen, '
+           'Bridget, and Tibby are going away for the summer and they need '
+           "something to keep them together. One day they were all at carmen's "
+           'house and Tibby spotted A pair of jeans neatly folded, that Carmen '
+           'had gotten from the store YES! and hadnt tried them on or '
+           'anything. Carmen said she could have them so Tibby tried them on, '
+           'they fit perfectly, clinging nicely to every curve. Carmen couldnt '
+           'believe these were the jeans she had bought from the second-hand '
+           'store, for $2.49! The girls were so amazed! All of them wanted to '
+           'try them on, and one by one the jeans flattered each girls figure! '
+           '<br /> <br />        So they made it official the pants were to '
+           'circulate through all of the girls all summer. On one side of the '
+           'pants you were to write what was the most interesting thing you '
+           'did that summer. On the other side you wrote what was the most '
+           'interesting place. The pants were with the girls through good and '
+           'bad, Like when Lena met a boy named Kostos who liked her, but she '
+           'wasnt interested in him at all, or was she? And when Tibby met a '
+           '12-year-old friend named Bailey, but she learned something '
+           'shocking about little Bailey.  <br />         <br />        This '
+           'is a really awesome book, and very funny. It will keep you reading '
+           'until the very last page. In this book Ann Brashers explains how '
+           "four friends are really linked together yet apart all summer. It's "
+           "so good you'll have to go out and find the second one! <br />"],
+          ['Terrific Book!',
+           'The Sisterhood of the Traveling Pants is an amazing book. It is a '
+           'clean-no sex, no sexual dialoge, no drugs, no violence-book. It is '
+           'about four girls-Carmen the spoiled hispanic, Lena the lovely shy '
+           'one, Briget the active sporty one, and Tibby the rebel. The girls '
+           'all go different ways over their 15th summer. Carmen goes to South '
+           'Carolina. Briget goes to Baja, CA. Lena goes to Greece. And Tibby '
+           'is stuck at home. This would be the first summer that they spend '
+           'apart from one another. Even thought they are apart, they are held '
+           'together by a magical pair of pants that can fit all of them.'],
+          ['A Must Read!',
+           'I found the Sisterhood of the Traveling Pants and its sequel among '
+           "the most moving books I've ever read. Every girl can find pieces "
+           'of herself in each character. We share their insecurities, their '
+           'fears, their wants, their needs and Brashares does an amazing job '
+           "of making us feel connected to each character, and every girl I've "
+           'spoken to has seen herself as a different one of the girls. Read '
+           'it! Watch as they get themselves all messed up and for the first '
+           'time have to fix it themselves without their best friends right '
+           'over their shoulder. The girls are still supportive of eachother, '
+           'but I couldnt wait to see how each girl learned to fix her own '
+           'problem and help herself. Read this book and see how the four '
+           'characters embody the traits of every girl you know!'],
+          ['Wonderful Book For Young Adult Girls and older',
+           'This book is a funny, exciting, and romantic story about four '
+           'girls who find out that they can all wear the same pair of pants.  '
+           'I read this with my 13 year old cousin.  We both fell in love with '
+           'it.  It was my christmas present and I started reading it.  My '
+           'cousin was reading over my shoulder and she fell in love with it '
+           'as I did.  We read it in 2 days.  My aunt who is 51 listened to us '
+           'read it together and she found it interesting and funny.  We all '
+           'read it together like we were a SISTERHOOD!'],
+          ['not just for young adults!',
+           "I'm happy to finally know about the traveling pants!!! Clever, "
+           'funny and endearing story of four teenagers who share a pants of '
+           'jeans one summer. Each leads a different path during the summer '
+           "months and the pants follow each's dreams, wishes and hopes. "
+           'Remarkable story to be listed in young adult but not feel like '
+           'that genre. Very good and I look forward to the rest of the '
+           'series.'],
+          ['Great Book  One of the best',
+           "This is one of the best books I've read.  I didn't like the "
+           'beginning of the book about finding the jeans and how their '
+           'mothers had all been friends so it took me a long time to get into '
+           "the book.  My friends kept telling me to finish the book and I'm "
+           "glad that I read it to the end.  I love Carmen and Bridget. I'm "
+           'glad Carmen broke the window.  Bridget surprised me but her story '
+           'also made me sad.  I like all the stories and how they wove '
+           'together.'],
+          ['The Awesome Sisterhood',
+           'Ann Brashares has written an amazing book. This book is really '
+           "good. It's about four young girls who are the best of friends, it "
+           'is summer and the girls are all going in different directions for '
+           'the summer they are splitting up for the summer. The girls are the '
+           'lovely Lena who is going to Greece, the boring Tibby who has no '
+           'choice but to stay home for the summer, Bridget the exciting one '
+           'who goes off to a soccer camp in Baja California, the dramatic '
+           'Carmen who goes to visit her dad in South Carolina who has a new '
+           'family of his own.   <br />     Carmen found the pants in a thrift '
+           "store for $3.49 including tax, this was going to be they're first "
+           'summer apart. The girls thought the pants to be magic, all these '
+           'girls all different body shapes and nothing alike the pants seem '
+           'to fit each and everyone of them perfectly. The amazing imagery '
+           'caused me to actually see all the things written in the book from '
+           'the girls trying on the pants to the soccer games and what the '
+           'pants looked like each time they were sent to the rest of the '
+           'girls. The girls all decide to make up these rules for the magic '
+           'pants as they call them. Ten rules you must follow in order to '
+           'wear these pants. They all decided that over the summer that they '
+           'will send the pants to each other each of them will get an equal '
+           'amount of time with the pants, they also made a rule that u must '
+           'write to your sisters over the summer no matter how much fun your '
+           'having without them. <br />     The excitment that follows these '
+           'girls is really thrilling. I loved this book! I recommend this '
+           'book to young girls. It was amazing!'],
+          ["I'm 31 and I loved this book!",
+           'I found this book by accident. I was looking for a book to buy for '
+           "a family member. She's 14 and the customer service person at the "
+           "bookstore recommended I buy this one. She said it's pretty popular "
+           'amongst teens and some adults which peaked my interest. <br /> <br '
+           "/>It wasn't until after I gave this book as a gift did I decide to "
+           'purchase the 3 series myself on Amazon.  <br /> <br />I thoroughly '
+           'enjoyed this book. At first I thought this book to be a little '
+           'juvenile with the whole sharing of pants thing but as the story '
+           'went on, it peaked my interest on the relationships the girls '
+           'developed not just with themselves but with their families, love, '
+           'etc... I understood that the pants represented some symbolism and '
+           'was the thread that connected their friendship through their '
+           'trials and tribulations. <br /> <br />I enjoyed this book so much '
+           "I read the 2nd book right away and I'm about to read the 3rd.  <br "
+           "/> <br />Although I'm 31, this book really took me back to when I "
+           'was a teen and the struggles I faced as I came of age.  <br /> <br '
+           '/>Ann Brashares really captures the characters well. Highly '
+           "recommend reading this book. You can't put it down. <br /> <br />"],
+          ['Sisterhood of the Traveling Pants',
+           'The story opens with the best character (in my opinion). Carmen '
+           'Lowell values friendship and is a vivid person. She explains the '
+           'history of the Pants without boring you.         Bridget Vreeland '
+           'is going to Baja California, Mexico. And ooh la la. She falls in '
+           'love at her soccer camp. When Bee wants something, she will not '
+           'stop.     Lena Kaligaris is the beautiful one of the four but she '
+           "doesn't like it. People are mostly using you and being fake when "
+           'you are. Boys, mostly. Lena is determined not to go with her '
+           "Grandma's favorite boy. Favorite man. Lena knows he is a very "
+           "handsome guy and he likes her, but she doesn't care. Lena is in "
+           'Santorini, Greece and just wants to paint.    Carmen Lucille is '
+           "visiting her dad in South Carolina. She  hasn't seen him in a "
+           'while and is looking forward to spending quality time. '
+           'Problem!!!!!!! Daddy has a fiance and two stepkids to be. When '
+           'Carmen is ignored, she is dangerous.             Poor tibby. Tibby '
+           'Tomko-Rollins is stuck at Wallmans, a boring low paying job. Did I '
+           "mention her boss? He doesn't trust her at all. (Maybe it's her "
+           'nose ring.) Then a 12-year-old girl has fainted. Why? She has '
+           'leukimia. Tibby and Bailey become friends besides the fact that '
+           'their 3 years apart. Bailey is not the obnoxious 12 year old she '
+           'thought she was.             Ann Brashares thinks in an unique '
+           'way. She ties four different girls stories together as well as '
+           "four different plots. If you read it, you'll love it. If you "
+           "don't, it's a shame."],
+          ['awesome summer...',
+           'this is a very insightful book. although a little bit slow from '
+           'commence, you will not regret reading this; the story is full of '
+           'drama, awe-inspiring relationships between characters, and genuine '
+           'creativity. great pleasure read, or for the beach!<br />- for '
+           'readers twelve(like me) n over. enjoy!'],
+          ['The Best Book Ever',
+           'I got this gift as a present and put off reading it for months and '
+           "months. It wasn't until one of my friends told me that I should "
+           "read it that I reluctantly picked up the book. It wasn't that long "
+           'until I became enthralled into the story lines. Each character had '
+           'different stories that surrounded them and each one seemed to be '
+           'like each of *ha, irony coming* me and my three best friends. You '
+           'become captivated in this great novel that has something other '
+           'than the cookie cutter teen girls involved in most books these '
+           'days. It truly is a must read!'],
+          ['MUST READ FOR TEEN GIRLS OF ALL AGES',
+           'This book is an incredible look into the lives of 4 teenage girls '
+           'as they face issues of their own and help eachother work through '
+           'them.  This is the best book I have ever read and I, like many '
+           'teenagers do not like to read and finished this book within the '
+           'first week I had it and right after I finished it I bought the '
+           "sequel which is also incredible.  I CAN'T wait for the third!!"],
+          ['Wonderful book!!!',
+           'This book is great for teenage women and even adults.  A sort of '
+           'coming of age novel, Ann Brashares has a knack for getting to the '
+           'heart of her characters.  The book is about 4 young women who '
+           'share a pair of magical pants.  Each girl discovers more about her '
+           'true self through the situations she endures over the summer.  I '
+           'could not put it down!'],
+          ['Not your ordinary teen novel',
+           'When I first heard of this book, I was a little hesitant about '
+           "reading it. I mean, look at the title. I know it's very creative, "
+           "but does it sound like the type of book I'd like to read? No. "
+           "Well, I'm glad I did read the book and the rest of the series. The "
+           'Sisterhood of the Traveling Pants books are 3 of the best books '
+           "I've ever read. I even made my mother read them, and she loved "
+           'them as much - if not more - as I did.  <br /> <br />Anne '
+           'Brashares really delves deeply into each girl. They are not simply '
+           'characters to make the book happen, but characters with feelings, '
+           'emotions and problems that we can all relate to. They each have '
+           'real relationships with their mothers, they are loyal and devoted '
+           'to each other, and they have problems which they deal with '
+           "honestly. Things like that in a book can't help but make it a good "
+           "read, don't you think? <br /> <br />I certainly hope that Anne "
+           'Bashares writes more for the series because I will be first on '
+           'line to by them! <br /> <br />Happy reading!'],
+          ['A sisterhood of love',
+           'Four teenage girls, friends from chilbirth, are about to spend '
+           'their first summer apart. But they keep their friendship constant '
+           'through a pair of jeans that \\\\"magically\\\\" fits all of them, '
+           'despite their different physiques and personalities.<br /><br '
+           '/>Through the summer, Lena, Bridget, Tibby and Carmen will endure '
+           "different situations that'll make them grow and mature, "
+           'confronting death, life, love, jealousy and many other emotions, '
+           'while the travelling pants -acting as a fifht friend- will make '
+           'them find the courage to overcome the most difficult situations '
+           'while maintaining their friendship as intact as ever.<br /><br '
+           '/>This is a beautiful book to read, and a beautiful series.<br '
+           '/><br />Author Ann Brashares describes honestly all the feelings '
+           'and emotions of adolescence, with a touch oh humor, drama and a '
+           'well-balanced 4-arc story. All the characters are as lovable as '
+           "flawed, and that's what makes this series a tremendous hit.<br "
+           "/><br />Brashares doesn't create shallow teens with unreal crises, "
+           'but four well-rounded girls that will live situations as real as '
+           'life can be. A book higly reccomended for teenage girls and adults '
+           'also. My 14 year old sister loved them and so did I.'],
+          ['Awesome',
+           'I found that this book was excellent and the author did a great '
+           'job of writing it.  This book was a real tear-jerker and I was sad '
+           'that it had to come to an end.'],
+          ['Yay for the Sisterhood!',
+           'This is a book about 4 friends who seperate for the summer and '
+           'send around a pair of magic pants. Bridget goes off to soccer '
+           'summer camp in Baja California and meets an older guy, whom she '
+           "falls hard for. Carmen goes to her father's home in South "
+           'Carolina, where she meets his new fiance and family. Lena vists '
+           'her grandparents in Greece for the summer and Tibby is stuck at '
+           "home.<br /><br />Each girl has an individual story that I couldn't "
+           'help but getting sucked into. This is a great book! A must read. '
+           'After reading this, it made me want a pair of magical pants and a '
+           'summer away from my friends.<br /><br />~Atalanta'],
+          ['Great Book, Easy Fun Read',
+           'I was surprised at how much I enjoyed this book as a '
+           'twenty-something reader.  It was a fast, fun read that I '
+           'absolutely enjoyed!'],
+          ['Great fun for any age.',
+           'Lately, I have been reading a lot of books based on the '
+           'recommendation of my sister. I will confess that when she handed '
+           'me this to read my eyebrows went up and I made her a vague promise '
+           'about trying to get to it. I am currently in my mid-thirties and '
+           'feeling every year of it. I really was not sure that I wanted to '
+           'invest any time and energy in a book about the trials and '
+           'tribulations of teenage girls.<br /><br />Wow. Am I glad that I '
+           'changed my mind and read it. I liked it so much that I stole the '
+           'other two from my sister as well and devoured them both in the '
+           'space of a week. Think of this series as the literary equivalent '
+           'of a chick flick for the thinking woman.<br /><br />Brashares has '
+           'written a smart, funny and kind look at those confusing teenage '
+           'years. She gets credit for (generally) not pulling punches and for '
+           'clearly articulating a lot of the home truths of the lifetime. '
+           'Using the lens of four very different girls whose bonding tie is '
+           'that they were all born in the same month, the author created a '
+           'cross-section of a very particular world.<br /><br />I liked it a '
+           'lot, and I suspect that it will fast become a great guilty '
+           'pleasure for a lot of adult women like myself. It probably goes '
+           'without saying that it seems to me as though it would also make a '
+           'good gift for teenage girls. The Sisterhood of the Traveling Pants '
+           'does treat with some fairly serious topics, so parents of '
+           'pre-teens might want to give it a read themselves before buying it '
+           'for their kids.'],
+          ['The Sisterhood of the Traveling Pants',
+           'I really enjoyed The Sisterhood of The Traveling Pants By Ann '
+           'Brashares. The book was about four best friends who are separating '
+           'for the first time during the summer.  They were all different; '
+           'Bridget the athlete, Lena the beauty,  Tibby the rebel, and Carmen '
+           'the one with the bad temper, but the one that cares the most about '
+           'sticking together and staying friends. Their summer changes when '
+           'they find a pair of magic pants in a thrift shop, that amazingly '
+           'fits all of them perfectly. They make a plan that they will all '
+           'keep in touch and share the pants no matter what happens. Even '
+           'though the girls are apart for the first time the pants keep them '
+           'in touch and each girl finds out a little bit more about '
+           'themselves and whats important in life. I recomend this book to '
+           'all adolecent girls.  I give this book (*****)5 stars. <br />      '
+           'Recomendation by: Erin K'],
+          ['The Sisterhood of the Traveling Pants',
+           'Chandni Vaidya   November 28, 2004 <br /> <br />The Sisterhood of '
+           'the Traveling Pants, Ann Brashares, ISBN-0-358-72933-2 <br /> <br '
+           '/> Buying a pair of magical pants at a thrift store sounds like a '
+           'far fetched idea but for Carmen and her three best friends that '
+           "doesn't seem that far fetched. A pair of magical pants will help "
+           'these four girls through their first summer apart from each other. '
+           'This non-fiction novel is about is about four best friends that '
+           'are going to be separated for the first time in their life. They '
+           'figured out a way to stay close through a pair of pants. These '
+           'pants will help Carmen, Tibby, Bee, and Lena through their '
+           'toughest summer.  <br /> This is an excellent book for girls from '
+           'the age of twelve to seventeen. This book can connect to the '
+           'readers of this age group because some of the problems the four '
+           "girls' experience in the book can relate to the reader. If you "
+           'liked All American Girl by Meg Cabot this is the book for you. '
+           "There isn't any action but there is a lot of drama and suspense. "
+           'This book is a page-turner right from the start. The four girls '
+           'have so many different problems that you just want to read on to '
+           'see how their problems are solved or how the become worse. '
+           'Connecting to some of the problems the characters have is really '
+           'easy. I can relate to Carmen, Bee, and Lena because they all went '
+           'it away for the summer and they felt left out and isolated from '
+           'their hometown. I went to Arizona over seventh grade summer '
+           'vacation and when I came back I felt really left out because I '
+           "didn't know everything that happened in Huntley over the summer "
+           'and I never knew what some people were talking about when I came '
+           'back. Most people have already experienced or are most likely '
+           'going to experience problems such as Carmen, Bee, Tibby, and '
+           "Lena's in the future. Ann Brashares writing style hooks you onto "
+           'the book. She uses a lot of foreshadowing which is what makes me '
+           'find a book more interesting. Throughout the book there are subtle '
+           'or obvious hints to some of the future problems that are going to '
+           'occur for the girls. I personally found this book exciting, funny, '
+           'but sad at the same time. It is like a soap opera put into a book '
+           'form. This is a great book that will keep you hooked and the best '
+           'part is that there are two other books that go along with this '
+           'one, The Second Summer of the Sisterhood and Girls in Pants, the '
+           'adventures of the traveling magical pants continue in these two '
+           'books. (Girls in Pants is still not out yet)    <br />  <br /> <br '
+           '/> <br /> <br />'],
+          ['This Book Is Magical!',
+           '\\\\"The Sisterhood Of The Traveling Pants\\\\" is one of the best '
+           "books I've ever read. It's something that will always want to make "
+           'you read on. You wanna know what comes next. This book speaks '
+           'honestly about everything that happens everyday.  <br /> <br '
+           '/>There are four members of the sisterhood, Carmen, Lena, Tibby, '
+           'and Bridget. They find a pair of pants that fits all of them '
+           'perfectly and decide to share them equally. Carmen goes to South '
+           "Carolina to see her dad, but it's full of surprises. He has a new "
+           'family now, and nobody had told Carmen. Lena goes to Greece, and '
+           'has lots of adventures, including meeting Kostos. Bridget goes to '
+           'soccer camp in Baja and meets Eric Richman, who she wants badly. '
+           "And Tibby, she stays home, works at Wallman's, and meets Bailey, a "
+           'twelve year old who changes her life. <br /> <br />I think that '
+           'this book is amazing, touching, and a very very good book. '
+           "Everybody will like this book. I enjoyed it very much, and I'm "
+           'sure you will too. It speaks honestly about everyday life. This '
+           'and the other Sisterhood books are the best books ever!'],
+          ['Magic that will find its way into each of our hearts...',
+           'I first heard of this book when my cousin read it.  It seemed like '
+           'a silly story.  But when I saw the preview for the movie, I '
+           'decided to read it first because my friend and our mothers are '
+           'gong to have a \\\\"girl\'s day out\\\\" and see the movie.  As I '
+           "started readig this story, I could see each of my friends' and my "
+           'own personalities in at least one of the characters.  This story '
+           'of four friends who must go in different directions for one story '
+           'share a magical object to keep them close together (the pants) is '
+           'heartwarming tale filled with both tears and laughter.  This book '
+           'has a genre of its own.  It will forever capture the hearts of '
+           'girls of all ages.  I am very eager to see the film starring '
+           'Alexis Bledel (\\\\"Gilmore Girls), Amber Tamblyn (\\\\"Joan of '
+           'Arcadia\\\\"), America Ferrera (\\\\"Real Women Have Curves\\\\"), '
+           'and newcomer Blake Lively.  No story will ever match the reality '
+           'and fantasy of this extraordinary novel.'],
+          ['amazing books',
+           'wow! these books were AMAZING! i got the first book, and i liked '
+           'it so much i read it in 1 day. then, i decided to buy the second '
+           'and third ones at the same time and it took me 2 days to finish '
+           'them altogher. these books were really good! i really recommend '
+           'them!'],
+          ['the sisterhood',
+           "i love this book! i finished it in about a day. it wasn't tell i "
+           "saw the movie that i actually wanted to read it i'll admit. but "
+           "i'm glad i did. it is beautifully written. and it talks about all "
+           'of the crisis a teenager will go through. losing loved ones, '
+           'losing your first love, changing throughout your life and the '
+           'people who help pull you through it, your friends. and it added a '
+           'lil bit of mystery as well with the traveling pants. it was '
+           "wonderful. it couldn't have been written better!"],
+          ['Wonderful story, beautifully written',
+           "Funny, fresh, poignant, real.  I loved each girl's story, and "
+           'especially how the girls related to each other--supportive but '
+           "challenging too.<br /><br />I can't wait until my daughters are "
+           'old enough to read and appreciate this book.  In the meantime, '
+           "it's on my Xmas list for old friends and new.<br /><br />BTW--I "
+           'found this in the teen section.  I would love to see this be '
+           'considered a mainstream book--the writing is excellent, and the '
+           'storytelling superb.'],
+          ['One of the Greatest',
+           'When I started reading this book I wasent so shur if I would like '
+           'it. But it turned out to be one of the best books ever. The '
+           'Sisterhood of the Traveling Pants shines in alot of places but the '
+           'best are the plot and how Ann Brashares changes from character to '
+           'character. One of the best books I have ever read a great read.'],
+          ['I love this book!',
+           '\\\\"The Sisterhood of the Traveling Pants?\\\\" you might '
+           'ask.<BR>All the people (well, at least, me.) who have read it will '
+           'say \\\\"Yes. This is a great book. The idea is very creative. '
+           '(Magical Pants?). The characters are fun and believable. Carmen, '
+           'Bridget, Tibby and Lena were best friends since they could '
+           'remember. <BR>They always spend time together in the summer, but '
+           'in this particular summer, they have to be apart. They discover '
+           'that the pants Carmen had all along were magical! <BR>They decided '
+           'that the pants should be passed around the world to each other so '
+           'they would be together without actually being together!<BR>Ann '
+           'Brashares is a great author, I could almost actually feel the '
+           'sadness/anger/whatever emotions that the character is feeling!<br '
+           '/>This book is not like any other!!!'],
+          ['Splendid!!',
+           "I'm a 21 year old college student and I absolutely adored this "
+           'book!!  It was such an easy and fun read.  I got way into it and '
+           "was sad when the book ended.  I felt every emotion the girl's "
+           'felt.  I was so sad when I got to the last page because I was '
+           'enjoying so much.'],
+          ['nostalgia',
+           'the third book to this fabulous series only adds evidence of the '
+           'amazing writing prowess of miss. brashares. the third book '
+           'especially makes me think of my own friends and keeps me from '
+           'being bored every time i read it. she puts in morals and lessons '
+           'without being cliche or cheesy and makes my heart heavy with that '
+           'certain feeling that only the most fantastic books can create.'],
+          ['Engaging!',
+           'The second summer of the sisterhood is an amazing book! It is very '
+           'engaging for readers of all ages. The way the characters are '
+           'written it makes the reader really feel for the situations they '
+           'are going though! Excellent..I couldnt put it down!'],
+          ['Wonderfully-drawn characters',
+           'Four girls--Lena, Tibby, Bridget, and Carmen--have known each '
+           'other since birth.  Their mothers met while in an exercise class '
+           'for pregnant women, and the girls continue the friendship long '
+           'after their mothers have lost touch.  This is the first summer '
+           'that the girls have been separated.  Lena is going to visit her '
+           'grandparents in Greece, Bridget is going to a soccer camp in '
+           'Mexico, and Carmen is visiting her father in South Carolina.  '
+           'Tibby, much to her dismay, is staying at home and working at a '
+           'local discount store.  They decide that the link between them will '
+           'be a pair of jeans, which magically fits all of them, despite '
+           'their varying sizes.  They pledge to wear the jeans and then send '
+           'them on to the next girl.  During the summer, each girl encounters '
+           'a challenge which seems overwhelming without the presence of her '
+           'other friends, but each one grows and overcomes her problems.  The '
+           'characters are likeable, real, and well-defined and the reader '
+           'comes to regard them as friends by the time the book ends.'],
+          ['Ahh, the magic of sisterhood....',
+           'Tibby, Bridget, Lena, and Carmen are four best friends that come '
+           'closer together after one of them buys a pair of \\\\"magical\\\\" '
+           'jeans that fit each one of them, no matter what their size.  This '
+           'novel is about their first summer apart, and how they can become '
+           'close to one another, no matter where they are in the world.  Now '
+           'these pants are worn by each of the girls throughout the summer, '
+           'and they seem to bring out the fire in each of them and boost '
+           'their confidence.  Each of the girls goes through some hard times '
+           'over the summer, including peeping Greek boys, death, being '
+           'ignored by your parents, and annoying step-siblings.  But each '
+           'girl learns a little bit more about life and learning to grow up.  '
+           'This novel brings the reader in like they are a part of the '
+           'story.  It is truly now one of my favorite books.  It will make '
+           'you laugh and it will make you cry, so be ready for an adventure!'],
+          ['The Beat Friends who could never be torn apart',
+           'This book is about 4 girls who find a pair of pants and they all '
+           'fit the Pants.  All 4 girls are at different places for the '
+           'summer.  During the summer they tell what they did wearing and not '
+           'wearing the Pants.  I disliked the shopping part and the ceremony '
+           'part they had at the beginning because it just told me the '
+           'beginning \\\\"life\\\\" of the Pants.  I also disliked the ending '
+           'part because it told me how they got back together and had an end '
+           'of the summer ceremony.  I liked the book in between the beginning '
+           'and the ending because it had more action plus a lot more '
+           "emotion.  I haven't read the Ya-Ya Sisterhood, but I think The "
+           'Sisterhood of the Traveling Pants is somewhat like it. I would '
+           'recommend this book to girls because it is more of a book a girl '
+           'would read.'],
+          ['Amazing book...',
+           'This is one of the best books that I have ever read. In this '
+           'story, four friends find a pair of pants that fit each and every '
+           'one of them, though they are different shapes and sizes. The four '
+           'friends are seperated that summer, sending the pants around the '
+           'sisterhood. They keep in touch with each other with letters. In '
+           'this story, Tibby stays at home and works at Wallmans, meeting an '
+           'exceptional 12 year old girl, Bridget goes to a sports camp and '
+           'falls for a hot coach, Carmen goes with her dad for the summer and '
+           'finds out he is engaged, and Lena goes to Greece and falls in love '
+           'for the first time. This is a great series and I recommend it to '
+           'everyone.'],
+          ['Very cute',
+           'I got this book at the airport for a cross country trip and really '
+           'enjoyed it.  I really felt the characters were well developed and '
+           "that the reader cannot help but like them even when he/she doesn't "
+           'agree with how the characters behave.  Really well put together '
+           "and I'd say the best in the series (I liked this so much that I "
+           'read the second book while on my trip and got the third for the '
+           'return flight).  It is nice to see an author not afraid to tackle '
+           'real teen issues!'],
+          ['A Great Book',
+           'The Sisterhood of the Traveling Pants by Ann Brashares is one of '
+           'my favorite books.  It goes through the lives of 4 teenage girls '
+           'over their summer break.  As these four girls go through their '
+           'first summer apart, you learn about what goes on in a typical '
+           "teenage girl's brain.  I enjoyed reading how these girls dealt "
+           'with problems and even learned a few valuable lessons.  Through '
+           'letters, instant messages, and other conversations, I was pulled '
+           'into reading on.  I found myself unable to put the book down '
+           'because of teh flow between chapters.  One of the best parts of '
+           'the book was reading the quotes that were placed between '
+           'chapters.  Each quote led up to what would be found in the '
+           'following chapter.  This book was really amazing.       At the '
+           'beginning of the book, the girls are getting ready for their '
+           'annual celebration after the end of the school year.  They find '
+           "the magic pants in one of the girl's closets, and after they all "
+           'put them on and saw that they fit everybody, they decided to form '
+           'a sisterhood.  During the course of the summer,they send the pants '
+           'from girl to girl and write back and forth.  I enjoyed reading '
+           'about all of their experiences, good and bad.  I was so excited '
+           'when I found out that there would be more.  All of the sequels '
+           'have pulled me in and kept me waiting for more.  The Sisterhood of '
+           'the Traveling Pants is the perfect book for girls of all ages.  '
+           'Kerry W.'],
+          ['Sisterhood of the Travelling Pants',
+           'Sent this book to my 10 year old niece  who was at camp for the '
+           'summer. <br /> <br />She thoroughly enjoyed it. <br />. <br '
+           '/>Shipped quickly without any problem.'],
+          ['A great book!',
+           "This truely is a great book. I couldn't put it down. It is about "
+           'four teenage girls who split for the summer for the first time. '
+           'Teens can really relate. It does have some sexual things, so I '
+           'would only recommend it to teen girls. It really was a great '
+           'book.'],
+          ['Not Just for Teens',
+           'This book, and the whole series, is usually found in the Young '
+           'Adult or Teen section. But it should be out on the table for '
+           'everyone--women, men, even teen boys--could benefit from this '
+           'insightful, absorbing and oh-so-relevant peek inside the heads of '
+           "4 delightful girls coming into womanhood. It's a great way for "
+           "women to get in touch with the girl that's still inside, and a "
+           'great way for men of all ages to better understand the females in '
+           'their lives. (It should be mandatory reading for the fathers of '
+           'teenage girls.) GIRLS RULE! And Ann Brashares does a masterful job '
+           'bringing these girls to life.'],
+          ['Tearfully Delicious!',
+           "I really enjoyed this story.  Though it's been a while since the "
+           'summer I was 16, I could relate to these young women.  I laughed '
+           "out loud and shed lots of tears while reading this book--that's a "
+           'good thing!  I am sending the book to a special girlfirend of mine '
+           'and asking she circulate it to others...'],
+          ['Sisterhood of the Traveling Pants',
+           'I am 38 years old and this was a very good book is not just for '
+           "teen's I could not put this book down I can wait to start on the "
+           'second summer. This book was funny and sad and it reminded me of '
+           'child hood friends.'],
+          ['Excellent Book!!',
+           "The Sisterhood of the Traveling Pants is an excellent book. It's "
+           'about four girls(Brigette, Lena, Tibby and Carmen) dealing with '
+           'the trials and triumphs of life. During summer break the girls are '
+           'leaving each other for the first time. Since the girls are '
+           'spliting up, they decide to buy a pair of pants that they will '
+           'share all throughoout summer so they can keep in touch. The girls '
+           'decided on buying the pants because they fit each one of them, '
+           'they thought the pants had some kind of magic in them. So the '
+           'girls decided to buy the pants and the pants would be sent to each '
+           'girl during summer break. They also made a set of rules to go with '
+           'the pair of pants that each girl has to follow while wearing the '
+           'pants. These pants inable the girls to keep in touch and survive '
+           'their summers. <br />The Sisterhood of the Traveling Pants is an '
+           'excellent book that I would recommend to anyone. If you are a '
+           'person who enjoys funny and interesting books, you will love The '
+           'Sisterhood of the Traveling Pants.'],
+          ['Great teenage girl book',
+           'This was a great book for a teenage girl. It is about four girls: '
+           'Carmen, Lena, Bridget, and Tibby. They all have to split up for '
+           'the summer: Lena going to visit her grandparents in Greece, Carmen '
+           'going to visit her father and his family, Bridget going to soccer '
+           'camp, and Tibby staying home. They all face their own problems '
+           'over the summer. What holds them together is a pair of jeans. A '
+           'pair of jeans, that Carmen bought at a thrift store. The jeans '
+           'were an average size, but they fit all the girls wonderfully, even '
+           'though they were all different shapes and sizes. They send the '
+           'jeans to one another along with a note each week. This book is '
+           'very emotional and sad and a very good book for teenage girls to '
+           'read.'],
+          ['Very, Very Special',
+           'This book is ostensibly aimed at adolescent girls, but I read it '
+           'with complete joy--my view is that it can be loved by any woman, '
+           'ages 12 to 92! What I loved most was that the four protagonists, '
+           'each of whom speaks to the reader in the first person, were real, '
+           'live girls--smart, funny, precocious, and dealing with that first '
+           'painful step into womanhood in the most recognizably painful and '
+           'funny ways.<br /><br />The four girls, Tibby, Bridget, Lena and '
+           'Carmen, who live in Maryland, have been friends literally since '
+           'the womb, since their mothers all met while taking a prenatal '
+           'aerobics class. While the mothers have drifted apart, the girls '
+           'have remained inseparable throughout their lives, and now--as they '
+           'approach age 16--they are going to be separated all summer long '
+           'for various reasons.<br /><br />Lena goes to her native Greece to '
+           'be with her grandparents. Bridget goes to Baja California '
+           '(\\\\"it\'s in Mexico, who knew?\\\\") to soccer camp. Carmen is '
+           'traveling to South Carolina to spend an idyllic (she hopes) summer '
+           'with her divorced father. And poor Tibby is staying home to work '
+           'in a chain drugstore. Each girl changes profoundly, and yet the '
+           'bonds of the \\\\"sisterhood\\\\" are stronger than ever.<br /><br '
+           '/>I liked this book so much, I am ordering copies to give to the '
+           'very special \\\\"sisters\\\\" in my own life, from my 16-year-old '
+           'niece to my 70-something aunt. This is a special, wonderful, and '
+           'heartwarming book and I recommend it highly!'],
+          ['Wonderful Book',
+           'Like so many reviewers, I absolutely loved this book.  Carmen, '
+           "Lena, Bridget, and Tibby are all wonderful characters.  I can't "
+           'wait to read more about them.'],
+          ['The Sisterhood of the Traveling Pants is GREAT!',
+           'The ages for this book probably start around age 11-12.Although '
+           'this book would probably be interesting to teens through high '
+           "school.  The reading level is not very high so It wouldn't be a  "
+           'good choice for a challenge.  Although this book is an excellent '
+           "summer read.  It's mainly about 4 girls who find a pair of jeans "
+           'that fit all of them. During the summer each of the girls go '
+           'somewhere else other than home. They use these jeans as a tool to '
+           'keep them feeling as if they are together all summer instead of '
+           'apart. This book tells the happenings during the summer and how '
+           'these pants help each of the girls along the journey of life.'],
+          ['Friends forever',
+           'I read this book because a friend said it was \\\\"great\\\\", and '
+           'I agree with her. This book tells about four friends and their '
+           'many adventures throughout the summer with the traveling pants.'],
+          ['More meaningful than I expected',
+           'I kept this book on the backburner for a while, reluctant to read '
+           'it because the premise seemed kind of silly... pants that are '
+           "shared??  I finally bit the bullet, though, and I'm glad I did "
+           'because upon reading, you realize that the book is less about the '
+           'physical pants and more about what the pants mean to these four '
+           'friends.  I found the character development to be outstanding and '
+           "Brasheres' writing style to be full of sensitivity... a very "
+           'touching read that will strike a nerve with anyone who is (or once '
+           'was) a teenage girl.'],
+          ['Sisterhood of the Travelling Pants',
+           'My youngest daughter went and watched the movie first and now '
+           'finds the book to be so much better due to the additional '
+           'characters the movie cut out.   The story has more meaning with '
+           'the book too (this comes directly from my daughter) compared to '
+           'the movie.'],
+          ['Awesome! Awesome! Awesome!',
+           'Ann Brashares The Sisterhood of the Traveling Pants allows readers '
+           'to see what a true friendship is.  Four girls who have been '
+           'friends since before birth are going to spend their first summer '
+           'away from each other.  Carmen is heading off to South Carolina to '
+           'spend time with her dad, Lena is going to go Greece to see her '
+           'grandparents, Tibby is spending her summer working at the local '
+           'drugstore and Bridget is heading to Baja, California, for soccer '
+           'camp.  The only things that will keep the girls together over the '
+           'next few months will the \\\\"magical pants.\\\\"  These pants fit '
+           'each girl despite their different figures.  This was an excellent '
+           'book.  Once I started reading it, I never wanted to put it down.  '
+           'I cannot wait to read the Second Summer of the Sisterhood.  I '
+           'would buy this novel now that I have read it.  It would be a great '
+           'book to read again.  The novel jumps back and forth between the '
+           'four girls as they tell their stories.  There are also quotes from '
+           'different people and letters that the girls have written to each '
+           'other added into the book.  The Sisterhood of the Traveling Pants '
+           'is one of the best books I have ever read.'],
+          ['Loved it!',
+           'This was an awesome book! I could not put it down. I read the '
+           'entire thing in a day it was so good. It was really cool how it '
+           'went from one girl to another,and that added to the suspense '
+           'because you had to read about the other girls before coming back '
+           'to the original girl. Sometimes this was confusing, and I had to '
+           'read a page more than once to understand, but overall this book '
+           'rox, and the (...). If you read this one you have to read (...)'],
+          ['The first Adventure of the Pants',
+           'The Sisterhood of the Traveling pants is recommended to all girls '
+           'ages 12 and up.  I loved this book, it was full of emotions and '
+           'new and exciting adventures that made me not want to put the book '
+           'down.  Four girls who are all best friends all mystically seem to '
+           'fit in the same pair of pants.  Carman, Tibby, Lena, and Bridget '
+           'all set off on there own adventures.  Through out these adventures '
+           'they learn to cope with their problems and build a stronger '
+           'friendship with each other.  Lena finds her first love, Carmen '
+           'discovers her new step mother, Tibby finds a new friend that '
+           'changes her life forever and then there is Bridget, who takes part '
+           'at a soccer camp in California where she meets a guy she really '
+           'likes.  This book is one of my favorite and I think every girl '
+           'should read it to find out what there missing out on.  <br /> <br '
+           '/>'],
+          ['Best book ever',
+           'I love the journey that all these girls have. The book is so '
+           "persuasive, you just can't put it down. You'll start with a "
+           "favorite charater then like another one. It's just too funny. "
+           'These girls think these pants have magic powers and that they '
+           'bring luck or something. This book is truely the best. Just to '
+           'good to be true.'],
+          ['love',
+           'I love this book actully love all three of these books and I so '
+           'think that you sould read everyone of this books.'],
+          ['Not just for teenage girls',
+           'I bought this from Amazon to spend enough for free shipping and '
+           'because I heard that the movie was good. Although at first I '
+           'thought it would be tailored strictly to teenage girls, I was very '
+           'surprised at how much I enjoyed reading this book (without giving '
+           'away my age). There are many, thought-provoking life lessons here. '
+           'Also well written. Definitely recommend this.'],
+          ["Friendship at it's finest",
+           'Four inseparable friends are going to be separated for the summer '
+           'for the first time in their lives.  Bridget, the athlete, will be '
+           'attending a prestegious soccer camp in Baja, California.  Carmen, '
+           'the introspective, will be with her dad in South Carolina.  Lena, '
+           'the beauty, will visit her grandparents for the first time in '
+           'their native Greece.  Finally, Tibby, the misunderstood, considers '
+           'herself banished to employment at the local drugstore.  What they '
+           'share, however, is a pair of pants.  Seemingly ordinary jeans, '
+           'these pants appear magical to the girls who each look terrific in '
+           'them despite different body shapes.  They decide that each girl '
+           'will spend a portion of the summer with the pants, periodically '
+           'sending them along to the next in line along with thoughts, '
+           'encouragement, and loads of friendship. <br /> <br />Each of the '
+           'four has unique experiences throughout the summer that make them '
+           'grow, both individually as well as a friend to the others.  '
+           "Carmen's dad has a suprise for her that she could not have "
+           "predicted and definately did not want, Lena's shyness gets her "
+           "into trouble that she isn't sure she can get out of, Bridget's "
+           "confidence and flirtation take her to places she wasn't ready for, "
+           'and Tibby finds that all is not as it seems.  But despite their '
+           'varying adventures and experiences, they remain the type of close '
+           'and supportive friends that a girl can only dream of. <br /> <br '
+           '/>This book summarizes exactly what friendship is.  There is no '
+           'one type of friendship - no relationship exactly the same - and '
+           'Ann Brashares has encapsulated that very sentiment.  My only '
+           "criticism is that there is no Wallman's drugstore in Bethesda, nor "
+           "is their a Gilda's.  There is, however, an Embassy Suites in "
+           'Friendship Heights, so why use a random location like Bethesda, '
+           'Maryland and put in incorrect and random details?  However, only a '
+           'Bethesda native would even have noticed this and it does not take '
+           'away from the fantastic story.   <br /> <br />Friends of all ages '
+           'will enjoy this book and see a part of themselves reflected in the '
+           'pages.'],
+          ['The sisterhood of the traveling pants',
+           'The Sisterhood of the Traveling Pants  <br />  Do you have a group '
+           'of best friends were you know you can tell them anything and '
+           'everything? Well in this book Bee, Tibby, Lena, And Carmen are all '
+           'best friends. But the thing with  them they all are complete '
+           'opposites. <br /> Bee, Tibby ,Lena and Carmen are excited for '
+           'summer vacation but theres one down side to this summer vacation. '
+           'All four girls are going to different places. Bee is going to '
+           'soccer camp. Tibby has to stay home the whole summer. Lena is '
+           "going to Greece to visit her grandparent's house. Carmen is going "
+           "to her dads her house who she hasn't seen forever. The day before "
+           "everyone has to leave they get together at Carmen's to say their "
+           'good byes. Then Tibby  says to Carmen \\\\"Carmen were did you get '
+           'those pants?\\\\" \\\\" A thrift store\\\\". So then Lena gets the '
+           'idea that they should all try them on and some how the pants fit '
+           'all the girls perfectly and they all look great in them even '
+           'though they all are completely different sizes. So that night the '
+           'girls sneak out to a aerobics studio were they all met. And they '
+           'decided that these jeans are magical. So since they were all going '
+           'some were different each girl would get the jeans for a few weeks '
+           'and tell about what they did in them. The girls all made up '
+           'special rules for the jeans like you must never wash the jeans. '
+           '<br /> I recommend this book for every teenage girl its funny and '
+           "kinds sad I don't think guys would like this book as much. This "
+           'book is hard is hard to put down.  <br />'],
+          ['Days of Old',
+           "Having run out of books I hadn't already read, I snagged this book "
+           'that belongs to my daughter.  Needless to say, it really touched '
+           "me.  I don't know about you men out there, but I hope every female "
+           '(lady, girl, woman, what the hell - everyONE) takes the time to '
+           'check it out.  It reminded me so much of the innocence of '
+           'adolesence that we all experienced and the ways that life touches '
+           'and changes us without us even realizing it.  The four main '
+           'characters have the same flaws that we had (or maybe even still '
+           "have), and I can't imagine that anyone who reads this books won't "
+           'find at least a small part of their own lives written into the '
+           "storyline.  I don't know how closely the movie resembles the book, "
+           "so don't take the easy way out - read it!"],
+          ['No words to describe.',
+           'If I could give this book more than 5 stars... I would have no '
+           'trouble desiding to.  I first heard about this book from my cousin '
+           'and instantly shot it down, because the title sounded stupid. I '
+           'then sat by a friend of mine on a school trip, and she was reading '
+           'the third book of the series. She fell asleep and I snuck a glance '
+           'at the page she was on. I started reading and I had to force '
+           'myself to stop. When I purchased the original book it again had '
+           'that effect on me and I reaad it in a day!'],
+          ['4 Girls- 1 Pair of Pants!!!!!!!!!',
+           'I absolutely recommend this series to ALL TEEN GIRLS. It shows how '
+           "they all have different problems, but with eachother's support, "
+           'they get through it all. All 4 of the girls are different, so its '
+           'a miracle that the pants fit all of them! Really, you should buy '
+           "this book! You won't regret it!"],
+          ['Something better than perfect pants? I think not!...',
+           'Wow! Ann Brashares is amazing. My mom picked this book up for me '
+           "when she was out shopping, and at first it didn't look that great. "
+           'But after I read a few chapters, I went nuts! I had never picked '
+           "up a chick novel before that wasn't all about stupid stuff like "
+           'shopping and stuff like that. I already ordered and read The '
+           'Second Summer of the Sisterhood, which was even better than #1! '
+           "I'm holding my breath until #3 comes out end of January."],
+          ['One of the Best',
+           'This book would actually earn more than five stars, but, '
+           'unfortunatley, five is as high as it goes...  This is absolutely, '
+           'without a doubt, one of the best books I have ever read.  As a '
+           'teenage girl, there is no way anyone could not enjoy this book and '
+           'relate to the characters.  This is the first in a series of three '
+           'that follows four best friends on their first summer apart.  '
+           'Carmen, Bridget, Lena and Tibby were all born within one month of '
+           'each other.  Their mothers were in a prenatal aerobics class which '
+           'is why the girls share such a special bond.  They knew each other '
+           'even before birth.   <br /> <br />This, the summer after their '
+           'sophomore year in high school, is the first one they have ever '
+           'been apart.  Carmen goes to South Carolina, Bridget to Mexico, '
+           'Lena to Greece, and Tibby stays home.  These girls are so easy to '
+           "relate to.  Their experiences are a little farfetched, but they're "
+           'still fun and easy to relate to.  So, the pants... these pants are '
+           'magical and they fit all the girls perfectly despite their obvious '
+           'differences in shape and size.  The girls decide to send the pants '
+           'to each other around the world as a way of being connected to each '
+           "other.  So, I won't ruin the story, but I think this book is "
+           'definitely a must read for teenage girls of every shape and size. '
+           'Whether a tom-boy or the girliest of girly girls, everyone will '
+           'have some special relationship with at least one of the '
+           'characters.'],
+          ['A Must Read!',
+           'What a wonderful book! I absolutely fell in love with these '
+           'characters and traveled back to a time when friendships held more '
+           'importance in my life. The characters are spirited and lively and '
+           'I felt a very real connection to each of them. The book is a very '
+           "easy read and it's a delightful coming of age story as well as "
+           'showing the value and importance of friendship.'],
+          ['A good, light read',
+           'Ann Brashares is not only in sync with teenagers today, but '
+           'perceptive, witty, and brave.  This book is worth every minute of '
+           'the couple hours it takes to read.'],
+          ['The Summer the Girls Will Never Forget',
+           'The Sisterhood of the Traveling Pants is a story about four very '
+           'close friends, Bridget, Lena, Tibby, and Carmen and about their '
+           'first summer apart from eachother. Before they leave for their '
+           'separate adventures they come across a pair a jeans that appear to '
+           'be magical and fit each one of there unique body types. \\\\"Magic '
+           'comes in many forms. Tonight it comes to us in a pair of pants. I '
+           'hereby propose these Pants belong to us equally, that will travel '
+           "with to all the places we're going, and they will keep us together "
+           'when we are apart\\\\" (20). The pants travel all over the world. '
+           'They go to Greece with Lena as she visits her grandparents. They '
+           'go to soccer camp with Bridget and South Carolina with Carmen as '
+           'she visits her dad. The pants also stay at home with Tibby. The '
+           'girls face many difficult and common situtions that keep you very '
+           'intrigued.  <br /> <br />There is never a dull moment in the book, '
+           'The Sisterhood of the Traveling Pants. The book is very enjoyable '
+           'to read and very easy to relate to each of the girls and the '
+           'friendship they share together. Each character is very unique and '
+           'each sitution the girls are in keep you reading. The friendship of '
+           'the girls is so strong they make you wish you had a pair of pants '
+           'that will keep you and your friends close like the girls from The '
+           'Sisterhood of the Traveling Pants. I highly recommend The '
+           'Sisterhood of the Traveling Pants to teenage girls ages 12 and '
+           'up.'],
+          ['Makes us remember why we love to read',
+           'Who knew a book about a pair of pants could be one of the best '
+           'books I have ever had the pleasure of reading?  This book was '
+           'written with such passion it make one feel like they are a sister '
+           'of the traveling pants.  This book will soar because of its '
+           'ability to relate to almost anyone.'],
+          ['Magic Pants',
+           'Best friends Carmen, Lena, Tibby, and Bridget are about to embark '
+           'on their first summer separated from eachother, ever, in The '
+           'Sisterhood of the Traveling Pants.  Each girl is about to discover '
+           'their independence during a summer that brings them new and '
+           'exciting challenges that will keep you hooked till the end.  '
+           'Through every big event, they had the magic pants. Carmen bought '
+           '\\\\"the Pants\\\\" at a resale shop a few days before summer '
+           'began. \\\\"The Pants\\\\" some how fit four very differently '
+           'shaped girls, and gave them the confidence and courage to take on '
+           'anything. The girls vowed to share the pants over summer and to '
+           'document everything that made an impact on their life. Bridget is '
+           'going to a soccer camp in Baja, California, and she struggles with '
+           'the idea that things might not always go as she wants when the '
+           'assistant coach she wants to be with, continuously rejects her.  '
+           'Lena goes to Greece to visit her Grandma and Bapi; she also meets '
+           'a \\\\"very nice boy\\\\" as her grandma puts it, which she tries '
+           'to hide her true feelings from.  Carmen is really excited about '
+           'spending the summer with her father, but her excitement is brought '
+           'to a screeching halt when she learns her father is now equipped '
+           "with a fience` and two new kids.  Finally, there's Tibby, poor "
+           'poor Tibby, while all her friends are off having their summer '
+           "adventures, she's stuck at home starting her new job; surprizingly "
+           'she befriends a younger, sick girl  named Bailey who makes a big '
+           'impact on her. <br /> <br />   The context of this book is geared '
+           'twards ages 13 and up.The book is a major page turner that you '
+           "won't want to put down.  You find a connection with these four "
+           'girls, and will almost feel like your part of their lives.  Every '
+           'girl will find something to relate to in this book, full of '
+           'lessons about life, independence, and most importantly '
+           'friendship.   <br />'],
+          ['The Best Book Ever!!!',
+           'OMG!!! This book is amazing. I am 13 years old and have read this '
+           "book a countless number of times.  And each time i've read it, it "
+           'gets better and better.  My school picked this book as required '
+           'reading and i am so glad they did.'],
+          ['Wonderful YA Fiction!',
+           'Carmen found the old ordinary pair of jeans at a thrift store. '
+           "They weren't ordinary after she and her three friends of all "
+           'different sizes a try them on. They fit them all perfectly. '
+           '\\\\"These are magic pants\\\\", Carmen whispers. They had been '
+           'friends before they were even born, when their mothers took an '
+           'aerobic class for pregnant women and this would be the first '
+           'summer Tibby, Lena, Bridget, and Carmen would be apart. They make '
+           'a pact to share the pants, and mail them back and forth from '
+           'wherever they are. Carmen is going to South Carolina to spend time '
+           "with her dad; Lena's in Greece to share the summer with her "
+           'grandparents; Bridget is off to Baja California for a soccer camp; '
+           "and Tibby is slaving away at the local grocery store Wallman's, "
+           "for minimum wage.  <br /> <br /> Brashares' is a funny, smart "
+           'writer and it comes out in this novel. The characters she creates '
+           'are genuine and relatable. If you like YA fiction, and the writing '
+           'styles of Meg Cabot and Sarah Dessen, you will love this book. <br '
+           '/> <br />'],
+          ['Great Read',
+           'The characters just jump off the page.  A literary classic set in '
+           "modern day time. I have read all three books now and can't wait "
+           'till book four. As an adult reader, I can identify with the lives, '
+           'hopes and aspirations of all the female characters. If I were a '
+           'tenage reader I am not sure that I would fully grasp the true '
+           'meaning of what is being said.'],
+          ['luv it sooooooooooo much',
+           'iluv it. its the best book i have ever read. i was truly sad when '
+           'it ended, not because it is a sad book, but because i loved it so '
+           'much i didnt want it to stop. then i found out that there was a '
+           'second and a third one. i went out the next day and bought them. '
+           'the second one was just as good as the first. and im doing my best '
+           'to try to wait to read the third for vacation but it is so '
+           'tempting. the books were so good i finished each one in like one '
+           'to two days and was frustrated when someone pulled me away from '
+           'them. i would recamend this book to anyone. i wish i could have '
+           'given it like five hundred stars. anyone that reads it has to love '
+           'it.'],
+          ['An enchanting book',
+           'The Sisterhood of the Traveling Pants by Ann Brashares is '
+           '\\\\"funny, perceptive, and moving\\\\", as reviewed by USA Today. '
+           'After reading it, I thought it was a cute story with an '
+           "extraordinary twist to it. That's because not many authors use "
+           'denim pants to symbolize the friendship between four ordinary '
+           'teenage girls. It was very interesting to see how the cheap pair '
+           "of pants symbolized their four girl's relationships between each "
+           'other. I found the summers of Lena, Bridget, Carmen, and Tibby all '
+           'very unique and enchanting. I loved how the author created vastly '
+           'different situations for each of the main characters. This helped '
+           'me read the story quickly and with ease, while enjoying every bit '
+           'of the book. The ideas within this story picked up and really '
+           'flowed nicely. It was a little difficult to understand in the '
+           "beginning because I certainly wasn't used to the existence of the "
+           'pants. As I continued reading, the ideas of the story pulled '
+           'together and I took pleasure in reading this positively rated '
+           'book. Though this was not the absolute book I have ever read, '
+           "because that book still hasn't been read yet; this book was "
+           'definitely true delight.'],
+          ['If I could I would give it 6 stars',
+           'This book takes you on the journey of four very different girls '
+           'who have been friends their whole life and have never spent a '
+           'summer apart. You will not be able to put this book down it is a '
+           'must read for all girls struggle to find their true selves. It is '
+           'a must read for anyone actually. This is my new favorite book. You '
+           'can relate to all of the characters and you feel like you are '
+           'actually there and experiencing their summer apart with them and '
+           'the traveling pants.'],
+          ['Starts off as teen fiction, but ends from the heart',
+           'A tale of four friends spending summer apart<br />Starts off as '
+           'teen fiction, but ends from the heart<br />Though each girl is '
+           'different, together they swear<br />Ten rules for the pants they '
+           'are planning to share<br /><br />The magical pants fit each one '
+           'like a glove<br />\\\\"Love your pals.  Love yourself.\\\\" And '
+           '\\\\"Pants = love\\\\"<br />In each of their stories the pants '
+           "play a role<br />You'd believe that the Traveling Pants had a "
+           "soul.<br /><br />Lena, the artist, is going to Greece<br />She's "
+           'spending her summer just painting in peace<br />Bridget, the '
+           'athlete, is off to jock camp<br />She likes playing soccer, all '
+           'sweaty and damp<br /><br />Tibby is working, she dreams of a '
+           "car<br />She's a film-maker, in search of a star<br />Carmen's the "
+           "last of the four left to roam<br />Time's short with her father "
+           'since he left the home.<br /><br />Three girls grow up, and the '
+           'last one reflects<br />The pants love them all, despite their '
+           'defects<br />But would it be different, with much tra la la<br '
+           '/>If Brashares decided to share them a bra?<br /><br />Amanda '
+           'Richards, August 25, 2005'],
+          ['Sisterhood roxs my soxs!!!',
+           "If you haven't already, read this book!!! Ann Brashares is an "
+           'incredible writer who really protrays the chracters as real '
+           'people. Like,(I am 14) and I can identify with each of the '
+           "characters! Here, I'll give you the main story line: 4 girls who "
+           'have been friends since birth are for the first time all seperated '
+           'during the summer. By chance and pure luck, they find a pair of '
+           'jeans at a thrift store that fit all of them, from the heaviest to '
+           'the tiniest. They then mail the pants around to each of them, '
+           'writing letters about the most exciting thing that happened to '
+           "them while wearing the pants. It's so charming and very "
+           "interesting, you won't want to put it down. It's a fun summer read "
+           'and I reccommend all girls 12-100 years old to read it!!! (see the '
+           'movie too, very good)'],
+          ['Great Book',
+           "Despite being out of the intended demographic for this book (I'm "
+           "25), I was deeply moved by it and actually shed some tears.  It's "
+           'not rare for me to cry at movies, but it takes a bit more for a '
+           "book to get to me.  It's just a great depiction of relationships "
+           'and being open to new ones.'],
+          ['Fun and Memorable',
+           'I loved this book.  I read it because I had heard that it was a '
+           "good book, but I had no idea how much I would like it.  It's all "
+           'about four friends that have been friends since before they were '
+           'born.  They count the passing of time by the summers and they find '
+           'the pants just in time for their first summer apart.  The pants '
+           'magically fit all of them, even though they have different body '
+           'types, so they know they must be magic.  Throughout the summer, '
+           'they all learn things about themselves with the help of the '
+           'pants.  I cried at the end of the book and I went out as soon as I '
+           'could to buy the second one.    I definitely recommend this book '
+           "to all girls.  It's such a great read and you'll see a part of "
+           'yourself in each of the characters.'],
+          ['The Sisterhood is born........',
+           'Lena, Tibby, Carmen and Bridget, all friends scince birth, are '
+           'about to spend their first summer apart.  What keeps the bond '
+           'between them strong is a pair of magic jeans that fit all of them- '
+           'even though they all have completly different builds.  Lean is '
+           'spending her summer in Greece and dealing with her confused '
+           'feelings for a possible first love; Bridget is trying to be a '
+           'soccer superstar at camp and get a cute counselor to fall for '
+           'her.  Carmen is visiting her dad- and boy, is she in for a '
+           "surprise!  And lastly, Tibby is working at Wallman's drugstore- "
+           'and she learns to look at people through different eyes from a '
+           'very special and very unlikely friend.  This book is awesome.  '
+           'Full of laughter and tears, \\\\"The Sisterhood of the Traveling '
+           'Pants\\\\" is about life, love, loss, angst, happiness, family, '
+           'and true friendships.  How can you go wrong?']]}
+
+Request json parameter:
+{'params': {'product_id': '0385730586', 'star_rating': '3'}, 'query_number': 2}
+Result:
+{'columns_names': ['review_headline', 'review_body'],
+ 'rows': [['A bit too cutesy',
+           'I read this book on a rainy weekend expecting it to be fantastic. '
+           'Unfortunately, it fell quite short of my expectations. The '
+           'characters were boring and lacked real personality. Sure they each '
+           'fit into a stereotypical teenage role, but they lacked spunk. Its '
+           'a quick and entertaining enough read, good for the middle school '
+           'aged girls out there. I recommend Sloppy Firsts and Second '
+           'Helpings for the high school girls out there looking to really '
+           'relate.'],
+          ["Not what you'd expect...EVEN BETTER!!!",
+           "I was really prepared not to like this book. I'd read some of the "
+           "reviews, and although they were good, I just couldn't bring myself "
+           'to read a book about travelling pants. It just sounded so out '
+           'there and stupid and from what I thought so very unentertaining. '
+           'Boy was I wrong. It was so good. The heroines were diverse and '
+           'each had amazingly interesting plots. Its a really good read. I '
+           'definitely recommend it.'],
+          ['This book is worth reading !!',
+           'This book taught me how friends can stick together even if its a '
+           'distant relationship.  In fact their relationship cycles between '
+           'being close and distant, which adds alot of additional '
+           'complications.  It shows how these issues can be overcome even '
+           'when there are four involved.  I highly recommend this book.']]}
+
+Request json parameter:
+{'params': {'customer_id': '12076615'}, 'query_number': 3}
+Result:
+{'columns_names': ['review_headline', 'review_body'],
+ 'rows': [['this book was a great learning novel!',
+           'this boook was a great one that you could learn from. it not only '
+           'teaches the imponrtance of family and their values but it also '
+           'deals with basic issues that teens and some kids even deal with.  '
+           'this book is about 4 best friends who are for the first time in '
+           'their lives spending their summer apart. one day they are all in '
+           'one of the girls rooms and finds a pair of pants that were tucked '
+           'away in her closet.  once all four  of them try them on they '
+           'realize that there is really something special about these pants.  '
+           'seeming as how all 4 girls are differnt shapes and sizes and '
+           'somehow the pants fit all of them,  they realize that these pants '
+           'were the start of something special.  immediatley following they '
+           'decided to make up certian rules abut the pants such as you must '
+           'write the best thing u did while wearing the pants over your '
+           'summer on the right leg and also some silly things such as to '
+           '\\\\"never pick yuor nose while wearing the pants.\\\\"  this book '
+           'follows the girls throuh their summers in differnt places of the '
+           'world and through all of the different obstacles that life takes '
+           'them through. it can really teach you alot not only about what is '
+           'going on around you but most imporntantly about yuorself.  i would '
+           'give this book 4 stars and would reccommend it to anyone who seems '
+           'the slihgtest bit interested.']]}
+
+Request json parameter:
+{'params': {'N': '5', 'end_date': '2005-10-14', 'start_date': '2005-10-14'},
+ 'query_number': 4}
+Result:
+{'columns_names': 'product_id',
+ 'rows': ['0060875410', '0595356524', '0060839880', '0975599518', '0743470117']}
+
+Request json parameter:
+{'params': {'N': '5', 'end_date': '2005-10-14', 'start_date': '2005-10-14'},
+ 'query_number': 5}
+Result:
+{'columns_names': 'customer_id',
+ 'rows': ['49718706', '52496855', '16416628', '51197187', '34185845']}
+
+Request json parameter:
+{'params': {'N': '5', 'end_date': '2005-10-14', 'start_date': '2005-10-14'},
+ 'query_number': 6}
+Result:
+{'columns_names': 'customer_id',
+ 'rows': ['45449148', '44340879', '51197187', '12073575', '12073911']}
+
+Request json parameter:
+{'params': {'N': '5', 'end_date': '2005-10-14', 'start_date': '2005-10-14'},
+ 'query_number': 7}
+Result:
+{'columns_names': 'customer_id',
+ 'rows': ['50122160', '50732546', '49718706', '45273033', '46072197']}
+
